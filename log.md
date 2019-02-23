@@ -1,30 +1,13 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+Day 1: 23rd February 2018
+Progress: Completed Flexbox Froggy (http://flexboxfroggy.com/) and Grid Garden (http://cssgridgarden.com/)
+Completed the Git section of Web Development 101 at www.theodinproject.com
+Completed the Learning git course on CodeAcademy.
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+Thoughts: These really helped me to understand CSS flexbox and CSS grids, what you can do with them and how you can use them.
+I knew how Git and GitHub worked, but it was interesting to hear the history
+I still don't 100% get going back but I think it's harder to visualise from the command line and will make more sense in a Git GUI.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+Link to work: First one is only visible from my browser. Second one is only visible if you're logged in as me.
+CodeAcademy: https://www.codecademy.com/nicm42
