@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-Day 1: 23rd February 2018
+Day 1: 23rd February 2019
 Progress: Completed Flexbox Froggy (http://flexboxfroggy.com/) and Grid Garden (http://cssgridgarden.com/)
 Completed the Git section of Web Development 101 at www.theodinproject.com
 Completed the Learning git course on CodeAcademy.
@@ -13,9 +13,17 @@ Link to work: First one is only visible from my browser. Second one is only visi
 CodeAcademy: https://www.codecademy.com/nicm42
 
 
-Day 2: 24th February 2018
+Day 2: 24th February 2019
 Progress: Started a website to play around with CSS Flexbox to make sure I understand it. Only done the html so far.
 
 Thoughts: I own a lot more of The Bill cast cards than I remember!
 
 Link to work: https://github.com/nicm42/the-bill-in-doctor-who
+
+
+Day 3: 27th February 2019
+Progress: Worked through some more of the freeCcodeCamp Javascript section.
+
+Thoughts: Some of it was really basic. Some of it explained things I've used, but never knew about, so that was really useful.
+
+Link to work: freeCodeCamp profile: https://www.freecodecamp.org/nicm42
