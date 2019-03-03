@@ -27,3 +27,19 @@ Progress: Worked through some more of the freeCcodeCamp Javascript section.
 Thoughts: Some of it was really basic. Some of it explained things I've used, but never knew about, so that was really useful.
 
 Link to work: freeCodeCamp profile: https://www.freecodecamp.org/nicm42
+
+
+Day 4: 1st March 2019
+Progress: Finally finished the freeCodeCamp section.
+
+Thoughts: Most of it I knew, although I really rely on code completion for for loops and hotstrings for ternary operators. The JSON challenges showed me that I hadn't remembered those sections as well as I thought, I had. I understand it all better now, though.
+
+Link to work: freeCodeCamp profile: https://www.freecodecamp.org/nicm42
+
+
+Day 5: 3rd March 2019
+Progress: Did some more work on The Bill in Doctor Who page.
+
+Thoughts: It's not been as useful as I thought it would be. I think I need to do something else that would have more going on, so I can play about with more CSS.
+
+Link to work: https://github.com/nicm42/the-bill-in-doctor-who
