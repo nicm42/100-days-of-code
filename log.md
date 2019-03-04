@@ -43,3 +43,11 @@ Progress: Did some more work on The Bill in Doctor Who page.
 Thoughts: It's not been as useful as I thought it would be. I think I need to do something else that would have more going on, so I can play about with more CSS.
 
 Link to work: https://github.com/nicm42/the-bill-in-doctor-who
+
+
+Day 6: 4th March 2019
+Progress: Had an idea about a tribute page to use CSS Flex and Grid a bit more. Started on it, with some html, some information and some CSS.
+
+Thoughts: I'm still trying to get my head round which is best to use where. Now I've done an overview of the whole thing, I need to work on individual bits next.
+
+Link to work: https://github.com/nicm42/tribute
