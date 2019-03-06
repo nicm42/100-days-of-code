@@ -51,3 +51,11 @@ Progress: Had an idea about a tribute page to use CSS Flex and Grid a bit more. 
 Thoughts: I'm still trying to get my head round which is best to use where. Now I've done an overview of the whole thing, I need to work on individual bits next.
 
 Link to work: https://github.com/nicm42/tribute
+
+
+Day 7: 6th March 2019
+Progress: Did nearly half of the ES6 section on freeCcodeCamp.
+
+Thoughts: It was slow going because I've vaguely seen arrow functions before, but never used any of the rest. And it turns out that some of the things you need to use in challenges will get taught later. And some of them fail if you leave comments in.
+
+Link to work: freeCodeCamp profile: https://www.freecodecamp.org/nicm42
