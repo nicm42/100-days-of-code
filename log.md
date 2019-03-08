@@ -59,3 +59,11 @@ Progress: Did nearly half of the ES6 section on freeCcodeCamp.
 Thoughts: It was slow going because I've vaguely seen arrow functions before, but never used any of the rest. And it turns out that some of the things you need to use in challenges will get taught later. And some of them fail if you leave comments in.
 
 Link to work: freeCodeCamp profile: https://www.freecodecamp.org/nicm42
+
+
+Day 8: 8th March 2019
+Progress: Finished off the ES6 section on freeCcodeCamp. Played chapter 2 on Flexbox Zombies
+
+Thoughts: ES6 was hard. I think once I've done the Javascript section I will have to go back through it. Flexbox Zombies made me finally get the difference between space-around and space-between into my brain.
+
+Link to work: freeCodeCamp profile: https://www.freecodecamp.org/nicm42
