@@ -67,3 +67,12 @@ Progress: Finished off the ES6 section on freeCcodeCamp. Played chapter 2 on Fle
 Thoughts: ES6 was hard. I think once I've done the Javascript section I will have to go back through it. Flexbox Zombies made me finally get the difference between space-around and space-between into my brain.
 
 Link to work: freeCodeCamp profile: https://www.freecodecamp.org/nicm42
+
+
+Day 9: 9th March 2019
+Progress: Worked on the CSS of my tribute page, updating CSS grid and addnig some colours, padding and margins. Completed chapter 3 of Flexbox Zombies. Started on freeCcodeCamp regular expressions section.
+
+Thoughts: Went back to freeCcodeCamp and got my head around CSS grid. I think I now have which direction justify-content and align-items go in my head. I've use regular expressions before but never looked into them, so working through them is really interesting.
+
+
+Link to work: https://github.com/nicm42/tribute and freeCodeCamp profile: https://www.freecodecamp.org/nicm42
