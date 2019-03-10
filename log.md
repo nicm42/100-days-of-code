@@ -74,5 +74,12 @@ Progress: Worked on the CSS of my tribute page, updating CSS grid and addnig som
 
 Thoughts: Went back to freeCcodeCamp and got my head around CSS grid. I think I now have which direction justify-content and align-items go in my head. I've use regular expressions before but never looked into them, so working through them is really interesting.
 
+Link to work: https://github.com/nicm42/tribute and freeCodeCamp profile: https://www.freecodecamp.org/nicm42
+
+
+Day 10: 10th March 2019
+Progress: Played with the timeline unordered list on my tribute page. Worked through some more of the freeCcodeCamp regular expressions section. Completed chapter 4 of Flexbox Zombies.
+
+Thoughts: Styling lists in css is really cool. However, what I thought of doing with it turns out to be quite complicated. Regular expressions continue to be interesting. Flexbox Zombies continues to be fun and helping me learn CSS Flexbox.
 
 Link to work: https://github.com/nicm42/tribute and freeCodeCamp profile: https://www.freecodecamp.org/nicm42
