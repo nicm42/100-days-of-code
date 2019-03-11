@@ -83,3 +83,11 @@ Progress: Played with the timeline unordered list on my tribute page. Worked thr
 Thoughts: Styling lists in css is really cool. However, what I thought of doing with it turns out to be quite complicated. Regular expressions continue to be interesting. Flexbox Zombies continues to be fun and helping me learn CSS Flexbox.
 
 Link to work: https://github.com/nicm42/tribute and freeCodeCamp profile: https://www.freecodecamp.org/nicm42
+
+
+Day 11: 11th March 2019
+Progress: Completed the regular expressions section on freeCcodeCamp. Completed chapter 5 of Flexbox Zombies. Finished off the tribute page for computer-sized screens.
+
+Thoughts: Regular expressions are hard! I kept having to check the forum for explanations of the correct answer. I think this is something that needs a lot of repetition to get in my head. I now understand flex-grow.
+
+Link to work: https://github.com/nicm42/tribute and freeCodeCamp profile: https://www.freecodecamp.org/nicm42 
