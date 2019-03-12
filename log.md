@@ -91,3 +91,11 @@ Progress: Completed the regular expressions section on freeCcodeCamp. Completed 
 Thoughts: Regular expressions are hard! I kept having to check the forum for explanations of the correct answer. I think this is something that needs a lot of repetition to get in my head. I now understand flex-grow.
 
 Link to work: https://github.com/nicm42/tribute and freeCodeCamp profile: https://www.freecodecamp.org/nicm42 
+
+
+Day 12: 12th March 2019
+Progress: Thought of some more to do on the tribute page for computers layout. Completed chapter 6 of Flexbox Zombies.
+
+Thoughts: Trying to work out flex-grow and flex-shrink ratios is hard.
+
+Link to work: https://github.com/nicm42/tribute
