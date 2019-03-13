@@ -99,3 +99,11 @@ Progress: Thought of some more to do on the tribute page for computers layout. C
 Thoughts: Trying to work out flex-grow and flex-shrink ratios is hard.
 
 Link to work: https://github.com/nicm42/tribute
+
+
+Day 13: 13th March 2019
+Progress: Completed chapter 6 of Flexbox Zombies. Did my first kata on Codewars.
+
+Thoughts: Although I get flex-basis now, I'm not sure what it would be useful for (except Zombies). The Codewars kata was hard, although part of that was getting into how the site worked. I definitely need more practice at Javascript, so it should be handy, even just doing one a week.
+
+Link to work: https://www.codewars.com/users/nicm42/completed
