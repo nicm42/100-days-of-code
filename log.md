@@ -102,8 +102,16 @@ Link to work: https://github.com/nicm42/tribute
 
 
 Day 13: 13th March 2019
-Progress: Completed chapter 6 of Flexbox Zombies. Did my first kata on Codewars.
+Progress: Completed chapter 7 of Flexbox Zombies. Did my first kata on Codewars.
 
 Thoughts: Although I get flex-basis now, I'm not sure what it would be useful for (except Zombies). The Codewars kata was hard, although part of that was getting into how the site worked. I definitely need more practice at Javascript, so it should be handy, even just doing one a week.
 
 Link to work: https://www.codewars.com/users/nicm42/completed
+
+
+Day 14: 14th March 2019
+Progress: Completed the debugging section on freeCcodeCamp. Completed chapter 8 of Flexbox Zombies. Did the mobile-specific bits of the tribute page.
+
+Thoughts: Aside from one thing, the debugging things I already knew as I've already made all those errors! order on Flexbox Zombies drove me a bit mad as one challenge was only correct when order was 0, 1, 2, even though it looked right (and is effectively the same order as 1, 2, 3). I need to look at the tribute page on an actual mobile screen, but it seems like it all works. It just looks a bit sparse, despite having plenty of stuff on it.
+
+Link to work: https://github.com/nicm42/tribute and freeCodeCamp profile: https://www.freecodecamp.org/nicm42 
