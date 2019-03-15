@@ -115,3 +115,11 @@ Progress: Completed the debugging section on freeCcodeCamp. Completed chapter 8 
 Thoughts: Aside from one thing, the debugging things I already knew as I've already made all those errors! order on Flexbox Zombies drove me a bit mad as one challenge was only correct when order was 0, 1, 2, even though it looked right (and is effectively the same order as 1, 2, 3). I need to look at the tribute page on an actual mobile screen, but it seems like it all works. It just looks a bit sparse, despite having plenty of stuff on it.
 
 Link to work: https://github.com/nicm42/tribute and freeCodeCamp profile: https://www.freecodecamp.org/nicm42 
+ 
+
+Day 15: 15th March 2019
+Progress: Completed chapters 9 & 10 of Flexbox Zombies. Got quite far through the freeCodeCamp Basic Data Structures section.
+
+Thoughts: So many different flex options! At least wrapping is eeasy to spot. So far I know all of teh basic data structures section, except one thing which was covered in the ES6 section.
+
+Link to work: freeCodeCamp profile: https://www.freecodecamp.org/nicm42
