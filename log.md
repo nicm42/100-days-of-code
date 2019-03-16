@@ -123,3 +123,11 @@ Progress: Completed chapters 9 & 10 of Flexbox Zombies. Got quite far through th
 Thoughts: So many different flex options! At least wrapping is eeasy to spot. So far I know all of teh basic data structures section, except one thing which was covered in the ES6 section.
 
 Link to work: freeCodeCamp profile: https://www.freecodecamp.org/nicm42
+
+
+Day 16: 16th March 2019
+Progress: Completed Flexbox Zombies. Completed Basic Data Structures in freeCodeCamp. Finished my tribute page.
+
+Thoughts: The final chapter of Flexbox Zombies wasn't as hard as I feared it would be. The rest of Basic Data Structures was stuff that was covered at the end of the basic javascript section. It's amazing how less amateur my site looks with some background gradients.
+
+Link to work: https://github.com/nicm42/tribute and freeCodeCamp profile: https://www.freecodecamp.org/nicm42 
