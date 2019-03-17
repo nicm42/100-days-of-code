@@ -131,3 +131,11 @@ Progress: Completed Flexbox Zombies. Completed Basic Data Structures in freeCode
 Thoughts: The final chapter of Flexbox Zombies wasn't as hard as I feared it would be. The rest of Basic Data Structures was stuff that was covered at the end of the basic javascript section. It's amazing how less amateur my site looks with some background gradients.
 
 Link to work: https://github.com/nicm42/tribute and freeCodeCamp profile: https://www.freecodecamp.org/nicm42 
+
+
+Day 17: 17th March 2019
+Progress: Went back to The Bill in Doctor Who, finished it off and created Doctor Who in The Bill page.
+
+Thoughts: It wasn't as bad as I first thought when I abandoned it, and didn't need much work to finish it off.
+
+Link to work: https://github.com/nicm42/the-bill-and-doctor-who
