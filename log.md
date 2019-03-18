@@ -139,3 +139,11 @@ Progress: Went back to The Bill in Doctor Who, finished it off and created Docto
 Thoughts: It wasn't as bad as I first thought when I abandoned it, and didn't need much work to finish it off.
 
 Link to work: https://github.com/nicm42/the-bill-and-doctor-who
+
+
+Day 18: 18th March 2019
+Progress: Did some of the Basic Algorithm Scripting challenges on freeCodeCamp.
+
+Thoughts: They aren't much harder than anything else I've done, but have been good for getting stuff in my head.
+
+Link to work: freeCodeCamp profile: https://www.freecodecamp.org/nicm42
