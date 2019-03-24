@@ -147,3 +147,11 @@ Progress: Did some of the Basic Algorithm Scripting challenges on freeCodeCamp.
 Thoughts: They aren't much harder than anything else I've done, but have been good for getting stuff in my head.
 
 Link to work: freeCodeCamp profile: https://www.freecodecamp.org/nicm42
+
+
+Day 19: 24th March 2019
+Progress: Nearly finished the Basic Algorithm Scripting challenges on freeCcodeCamp.
+
+Thoughts: They are getting harder, so I've been enjoying the challenge.
+
+Link to work: freeCodeCamp profile: https://www.freecodecamp.org/nicm42
