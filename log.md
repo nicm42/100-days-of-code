@@ -155,3 +155,11 @@ Progress: Nearly finished the Basic Algorithm Scripting challenges on freeCcodeC
 Thoughts: They are getting harder, so I've been enjoying the challenge.
 
 Link to work: freeCodeCamp profile: https://www.freecodecamp.org/nicm42
+
+
+Day 20: 25th March 2019
+Progress: Finished the Basic Algorithm Scripting challenges on freeCcodeCamp and started Object Oriented Programming.
+
+Thoughts: That last challenge was a lot easier when starting fresh. OOP starts off with the same things we've done twice before!
+
+Link to work: freeCodeCamp profile: https://www.freecodecamp.org/nicm42
