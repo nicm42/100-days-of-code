@@ -163,3 +163,11 @@ Progress: Finished the Basic Algorithm Scripting challenges on freeCcodeCamp and
 Thoughts: That last challenge was a lot easier when starting fresh. OOP starts off with the same things we've done twice before!
 
 Link to work: freeCodeCamp profile: https://www.freecodecamp.org/nicm42
+
+
+Day 21: 29th March 2019
+Progress: Did a few code wars katas to level up to 7yu and some more of freeCcodeCamp OOP.
+
+Thoughts: OOP is getting hard to grasp - I think I really need more examples. It might become clearer as I do more. 7yu katas are much easier than 6yu!
+
+Link to work: https://www.codewars.com/users/nicm42/completed and https://www.freecodecamp.org/nicm42
