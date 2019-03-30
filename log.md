@@ -171,3 +171,12 @@ Progress: Did a few code wars katas to level up to 7yu and some more of freeCcod
 Thoughts: OOP is getting hard to grasp - I think I really need more examples. It might become clearer as I do more. 7yu katas are much easier than 6yu!
 
 Link to work: https://www.codewars.com/users/nicm42/completed and https://www.freecodecamp.org/nicm42
+
+
+Day 22: 30th Marh 2019
+Progress: Finished freeCcodeCamp OOP.
+
+Thoughts: I get it, but I feel like I need more real-life examples of where you'd use it all.
+
+
+Link to work: https://www.freecodecamp.org/nicm42
