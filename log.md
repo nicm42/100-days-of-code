@@ -178,5 +178,12 @@ Progress: Finished freeCcodeCamp OOP.
 
 Thoughts: I get it, but I feel like I need more real-life examples of where you'd use it all.
 
+Link to work: https://www.freecodecamp.org/nicm42
+
+
+Day 23: 31st March 2019
+Progress: Did all of freeCcodeCamp functional programming
+
+Thoughts: Now I understand some of the earlier stuff better.
 
 Link to work: https://www.freecodecamp.org/nicm42
