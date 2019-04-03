@@ -187,3 +187,27 @@ Progress: Did all of freeCcodeCamp functional programming
 Thoughts: Now I understand some of the earlier stuff better.
 
 Link to work: https://www.freecodecamp.org/nicm42
+
+
+Day 24: 1st April 2019
+Progress: Did 4 of the Intermediate Algorithm Scripting challenges.
+
+Thoughts: They started off by being harder, but not too hard. Until the fourth one, which took me ages to get my head round.
+
+Link to work: https://www.freecodecamp.org/nicm42
+
+
+Day 25: 2nd April 2019
+Progress: Started on the Spinal Tap Case challenge on freeCodeCamp. Did some HackerRank challenges.
+
+Thoughts: These intermediate challenges are hard!
+
+Link to work: https://www.freecodecamp.org/nicm42 and https://www.hackerrank.com/nicm42
+
+
+Day 26: 3rd April 2019
+Progress: Finished the Spinal Tap Case challenge on freeCcodeCamp. Did an easy HackerRank challenge for some light relief. Did this week's CodeWars email 7kyu Kata.
+
+Thoughts: Just as I shut my laptop down to go to work, I realised the solution to the FCC challenge. And it worked! The CodeWars kata was hardest on the maths! I didn't do it the most efficient way, but it wasn't too hard, so perhaps I need to try more 6ku ones.
+
+Link to work: https://www.codewars.com/users/nicm42/completed and https://www.freecodecamp.org/nicm42 and https://www.hackerrank.com/nicm42
