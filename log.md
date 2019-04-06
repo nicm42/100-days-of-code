@@ -211,3 +211,27 @@ Progress: Finished the Spinal Tap Case challenge on freeCcodeCamp. Did an easy H
 Thoughts: Just as I shut my laptop down to go to work, I realised the solution to the FCC challenge. And it worked! The CodeWars kata was hardest on the maths! I didn't do it the most efficient way, but it wasn't too hard, so perhaps I need to try more 6ku ones.
 
 Link to work: https://www.codewars.com/users/nicm42/completed and https://www.freecodecamp.org/nicm42 and https://www.hackerrank.com/nicm42
+
+
+Day 27: 4th April 2019
+Progress: Did three easy HackerRank challenges.
+
+Thoughts: I only had 15 minutes, so these fit in nicely.
+
+Link to work: https://www.hackerrank.com/nicm42
+
+
+Day 28: 5th April 2019
+Progress: Did an easy challenge on HackerRank. Then picked a problem solving one and did that.
+
+Thoughts: Another chance to practise reduce, in the problem solving.
+
+Link to work: https://www.hackerrank.com/nicm42
+
+
+Day 29: 6th April 2019
+Progress: Learnt about try and catch on HackerRank. Did two algorithms on freeCcodeCamp. Did day 1 of Wes Bos's Javascript30.
+
+Thoughts: Try and catch was new to me and useful. Those two algorithms I found much simpler. Javascript30 was short and simple and pretty much consisted of things I didn't know, but are really useful to know.
+
+Link to work: https://www.hackerrank.com/nicm42 and https://www.freecodecamp.org/nicm42 and https://github.com/nicm42/Javascript30
