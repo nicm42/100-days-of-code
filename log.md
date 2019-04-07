@@ -235,3 +235,11 @@ Progress: Learnt about try and catch on HackerRank. Did two algorithms on freeCc
 Thoughts: Try and catch was new to me and useful. Those two algorithms I found much simpler. Javascript30 was short and simple and pretty much consisted of things I didn't know, but are really useful to know.
 
 Link to work: https://www.hackerrank.com/nicm42 and https://www.freecodecamp.org/nicm42 and https://github.com/nicm42/Javascript30
+
+
+Day 30: 7th April 2019
+Progress: Did five algorithm challenges on freeCcodeCamp and four of the Javascript10 ones on HackerRank.
+
+Thoughts: The algorithm challenges have got easier - not easy, but a nice challenge. The HackerRank ones were more things I didn't know or needed to revise, which was good.
+
+Link to work: https://www.hackerrank.com/nicm42 and https://www.freecodecamp.org/nicm42
