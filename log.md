@@ -243,3 +243,19 @@ Progress: Did five algorithm challenges on freeCcodeCamp and four of the Javascr
 Thoughts: The algorithm challenges have got easier - not easy, but a nice challenge. The HackerRank ones were more things I didn't know or needed to revise, which was good.
 
 Link to work: https://www.hackerrank.com/nicm42 and https://www.freecodecamp.org/nicm42
+
+
+Day 31: 8th April 2019
+Progress: Completed one algorithm challenge on freeCodeCamp and started another. Did one of the Javascript10 challenges on HackerRank and started 30 days of code.
+
+Thoughts: the algorithms got quite mathsy, so I had to go away and think about the one I started. The HackerRank bits have got hard to get my head round.
+
+Link to work: https://www.hackerrank.com/nicm42 and https://www.freecodecamp.org/nicm42
+
+
+Day 32: 9th April 2019
+Progress: Realised how to do the maths bit of the algorithm and finished it off. Did another day of 30 days of code on HackerRank. Updated my readmes on my tribute page and The Bill and Doctor Who.
+
+Thoughts: 30 days of code started off so easy and then suddenly went hard, even though they were about something easy!
+
+Link to work: https://www.hackerrank.com/nicm42 and https://www.freecodecamp.org/nicm42
