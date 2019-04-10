@@ -259,3 +259,11 @@ Progress: Realised how to do the maths bit of the algorithm and finished it off.
 Thoughts: 30 days of code started off so easy and then suddenly went hard, even though they were about something easy!
 
 Link to work: https://www.hackerrank.com/nicm42 and https://www.freecodecamp.org/nicm42
+
+
+Day 33: 10th April 2019
+Progress: Tried a Codewars kata. I did it in two different ways, but both of them took too long for the big tests. Did a freeCcodeCamp algorithm that was much quicker. Did another day of 30 days of code on HackerRank.
+
+Thoughts: The Codewars thing was annoying. I just couldn't think how else to do it. And then the freeCcodeCamp one was easy in comparison. I might stop the 30 days of code on HackerRank because it's all simple stuff designed for people who have never done any coding before.
+
+Link to work: https://www.codewars.com/users/nicm42/completed and https://www.freecodecamp.org/nicm42 and https://www.hackerrank.com/nicm42
