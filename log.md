@@ -267,3 +267,19 @@ Progress: Tried a Codewars kata. I did it in two different ways, but both of the
 Thoughts: The Codewars thing was annoying. I just couldn't think how else to do it. And then the freeCcodeCamp one was easy in comparison. I might stop the 30 days of code on HackerRank because it's all simple stuff designed for people who have never done any coding before.
 
 Link to work: https://www.codewars.com/users/nicm42/completed and https://www.freecodecamp.org/nicm42 and https://www.hackerrank.com/nicm42
+
+
+Day 34: 11th April 2019
+Progress: Went through all of the jQuery section on freeCcodeCamp.
+
+Thoughts: That was very basic and limited, I thought. But it reminded me of some things that I've forgotten existed. But a change from algorithms, which I dreamt about.
+
+Link to work: https://www.freecodecamp.org/nicm42
+
+
+Day 35: 12th April 2019
+Progress: Did three algorithms on freeCcodeCamp!
+
+Thoughts: At first they all looked impossible. But I followed the links in the hints and googled some stuff and found they were not that bad at all.
+
+Link to work: https://www.freecodecamp.org/nicm42
