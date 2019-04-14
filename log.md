@@ -283,3 +283,19 @@ Progress: Did three algorithms on freeCcodeCamp!
 Thoughts: At first they all looked impossible. But I followed the links in the hints and googled some stuff and found they were not that bad at all.
 
 Link to work: https://www.freecodecamp.org/nicm42
+
+
+Day 36: 13th April 2019
+Progress: Finished off the intermediate algorithms on freeCcodeCamp. Also went through CSS Diner.
+
+Thoughts: The algorithms suddenly got a lot easier. I didn't know how much I didn't know about CSS selectors. But I know now!
+
+Link to work: https://www.freecodecamp.org/nicm42
+
+
+Day 37: 14th April 2019
+Progress: Did four of the Javascript projects.
+
+Thoughts: The first one was easy, but then they got progressively harder.
+
+Link to work: https://www.freecodecamp.org/nicm42
