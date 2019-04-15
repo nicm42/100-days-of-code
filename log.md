@@ -299,3 +299,11 @@ Progress: Did four of the Javascript projects.
 Thoughts: The first one was easy, but then they got progressively harder.
 
 Link to work: https://www.freecodecamp.org/nicm42
+
+
+Day 38: 15th April 2019
+Progress: Got partway through the final Javascript project.
+
+Yhoughts: There is a lot going on in this one. My head hurts after an hour of it, but hopefully it will be easier after a break.
+
+Link to work: https://www.freecodecamp.org/nicm42
