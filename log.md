@@ -304,6 +304,14 @@ Link to work: https://www.freecodecamp.org/nicm42
 Day 38: 15th April 2019
 Progress: Got partway through the final Javascript project.
 
-Yhoughts: There is a lot going on in this one. My head hurts after an hour of it, but hopefully it will be easier after a break.
+Thoughts: There is a lot going on in this one. My head hurts after an hour of it, but hopefully it will be easier after a break.
+
+Link to work: https://www.freecodecamp.org/nicm42
+
+
+Day 39: 16th April 2019
+Progress: Finished the final Javascript project
+
+Thoughts: That was hard - it took me about three hours in total. I did keep complicating it and found I could simplify quite a bit. But I am so glad to be done and so proud to have done it. And finished the whole Javascript section in two days under two months.
 
 Link to work: https://www.freecodecamp.org/nicm42
