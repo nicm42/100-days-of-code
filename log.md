@@ -315,3 +315,11 @@ Progress: Finished the final Javascript project
 Thoughts: That was hard - it took me about three hours in total. I did keep complicating it and found I could simplify quite a bit. But I am so glad to be done and so proud to have done it. And finished the whole Javascript section in two days under two months.
 
 Link to work: https://www.freecodecamp.org/nicm42
+
+
+Day 40: 17th April 2019
+Progress: Did a 7kyu and a 6kyu kata on codewars.
+
+Thoughts: I intended to take a day off from algorithms, thought I'd just do one and ended up doing two. I think they might be addictive.
+
+Link to work: https://www.codewars.com/users/nicm42/completed
