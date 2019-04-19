@@ -323,3 +323,11 @@ Progress: Did a 7kyu and a 6kyu kata on codewars.
 Thoughts: I intended to take a day off from algorithms, thought I'd just do one and ended up doing two. I think they might be addictive.
 
 Link to work: https://www.codewars.com/users/nicm42/completed
+
+
+Day 41: 19th April 2019
+Progress: Worked through DOM manipulation and events. Did day 2 of Wes Bos's Javascript30.
+
+Thoughts: Now I get DOM manipulation and events. It's very similar to jQuery, it's just learning the exact syntax. I understood the DOM manipulation bits in the Javascript30 after doing that.
+
+Link to work: Nothing to link.
