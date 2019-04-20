@@ -331,3 +331,11 @@ Progress: Worked through DOM manipulation and events. Did day 2 of Wes Bos's Jav
 Thoughts: Now I get DOM manipulation and events. It's very similar to jQuery, it's just learning the exact syntax. I understood the DOM manipulation bits in the Javascript30 after doing that.
 
 Link to work: Nothing to link.
+
+
+Day 42:
+Progress: Revised template literals and CSS animations and transitions. Learnt the CSS box model. Did a 6kyu kata on codewars. Started on a simple game to use CSS animations and JS DOM manipulation.
+
+Thoughts: Now I get the difference between border-box and content-box. Those 6kyu katas are getting easier.
+
+Link to work: W3C exercises and https://www.codewars.com/users/nicm42/completed and https://github.com/nicm42/clickthedot
