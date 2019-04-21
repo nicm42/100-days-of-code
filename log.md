@@ -339,3 +339,11 @@ Progress: Revised template literals and CSS animations and transitions. Learnt t
 Thoughts: Now I get the difference between border-box and content-box. Those 6kyu katas are getting easier.
 
 Link to work: W3C exercises and https://www.codewars.com/users/nicm42/completed and https://github.com/nicm42/clickthedot
+
+
+Day 43:
+Progress: Worked on the game and now have the basic functionality sorted.
+
+Thoughts: I could do this all in jQuery so easily, but JS is just different enough that I keep having to look up everything I do. But then that was why I was doing this, after all.
+
+Link to work: https://github.com/nicm42/clickthedot
