@@ -347,3 +347,11 @@ Progress: Worked on the game and now have the basic functionality sorted.
 Thoughts: I could do this all in jQuery so easily, but JS is just different enough that I keep having to look up everything I do. But then that was why I was doing this, after all.
 
 Link to work: https://github.com/nicm42/clickthedot
+
+
+Day 44:
+Progress: Did an easy 7kyu kata on codewars to get it off my incomplete list. Worked on my game - have the basic structure down, just need to make some refinements.
+
+Thoughts: Having a game that works is pretty cool! It shouldn't take too many more days to finish. I definitely need to do more 6kyu katas, although trying to do 7kyu ones efficiently is a good exercise if I don't have much time.
+
+Link to work: https://www.codewars.com/users/nicm42/completed and https://github.com/nicm42/clickthedot
