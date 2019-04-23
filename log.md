@@ -355,3 +355,11 @@ Progress: Did an easy 7kyu kata on codewars to get it off my incomplete list. Wo
 Thoughts: Having a game that works is pretty cool! It shouldn't take too many more days to finish. I definitely need to do more 6kyu katas, although trying to do 7kyu ones efficiently is a good exercise if I don't have much time.
 
 Link to work: https://www.codewars.com/users/nicm42/completed and https://github.com/nicm42/clickthedot
+
+
+Day 45:
+Progress: Updated the game so it can start with a circle of any size.
+
+Thoughts: An hour and I managed to achieve one thing. I just kept finding other things it impacted and needed to find other ways of doing things. However, I feel like I learnt a lot more than I have any other day working on it.
+
+Link to work: https://github.com/nicm42/clickthedot
