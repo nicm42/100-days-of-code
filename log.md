@@ -363,3 +363,11 @@ Progress: Updated the game so it can start with a circle of any size.
 Thoughts: An hour and I managed to achieve one thing. I just kept finding other things it impacted and needed to find other ways of doing things. However, I feel like I learnt a lot more than I have any other day working on it.
 
 Link to work: https://github.com/nicm42/clickthedot
+
+
+Day 46:
+Progress: Added a reset button to the game.
+
+Thoughts: Starting to feel like I've learnt my way around this stuff now. And really enjoying the game!
+
+Link to work: https://github.com/nicm42/clickthedot
