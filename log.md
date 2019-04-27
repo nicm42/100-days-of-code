@@ -371,3 +371,11 @@ Progress: Added a reset button to the game.
 Thoughts: Starting to feel like I've learnt my way around this stuff now. And really enjoying the game!
 
 Link to work: https://github.com/nicm42/clickthedot
+
+
+Day 47:
+Progress: Discovered codingame and completed 3 puzzles
+
+Thoughts: It took me a while to understand the platform, but it's fun to use code and see how it changes the video.
+
+Link to work: https://www.codingame.com/profile/7b3a5f483c1d1a240c8914fce895dc898958233
