@@ -379,3 +379,11 @@ Progress: Discovered codingame and completed 3 puzzles
 Thoughts: It took me a while to understand the platform, but it's fun to use code and see how it changes the video.
 
 Link to work: https://www.codingame.com/profile/7b3a5f483c1d1a240c8914fce895dc898958233
+
+
+Day 48:
+Progress: Did two codingame puzzles.
+
+Thoughts: One was so easy I thought I was missing something. The other took a while.
+
+Link to work: https://www.codingame.com/profile/7b3a5f483c1d1a240c8914fce895dc898958233
