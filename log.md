@@ -387,3 +387,11 @@ Progress: Did two codingame puzzles.
 Thoughts: One was so easy I thought I was missing something. The other took a while.
 
 Link to work: https://www.codingame.com/profile/7b3a5f483c1d1a240c8914fce895dc898958233
+
+
+Day 49:
+Progress: Finished the game!
+
+Thoughts: That was harder for the week off. I have ideas for how to make it harder, but it's done its job with me getting to grips with DOM manipulation in JS.
+
+Link to work: https://github.com/nicm42/clickthedot
