@@ -395,3 +395,11 @@ Progress: Finished the game!
 Thoughts: That was harder for the week off. I have ideas for how to make it harder, but it's done its job with me getting to grips with DOM manipulation in JS.
 
 Link to work: https://github.com/nicm42/clickthedot
+
+
+Day 50:
+Progress: Made a start on a Starfleet Recruitment website using LESS.
+
+Thoughts: Spent most of my time sorting out Sublime Text to cope with LESS. After a re-install it can now not only cope with LESS, but doesn't give me errors all over the place. Spent the rest of the time looking up facts. But I have the basic structure down now, I just need to make it look pretty.
+
+Link to work: https://github.com/nicm42/starfleet-recruitment
