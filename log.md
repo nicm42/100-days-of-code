@@ -403,3 +403,11 @@ Progress: Made a start on a Starfleet Recruitment website using LESS.
 Thoughts: Spent most of my time sorting out Sublime Text to cope with LESS. After a re-install it can now not only cope with LESS, but doesn't give me errors all over the place. Spent the rest of the time looking up facts. But I have the basic structure down now, I just need to make it look pretty.
 
 Link to work: https://github.com/nicm42/starfleet-recruitment
+
+
+Day 51:
+Progress: Spent a lot of time working on images. But I have two of the sections largely done.
+
+Thoughts: I hate image manipulation.
+
+Link to work: https://github.com/nicm42/starfleet-recruitment
