@@ -411,3 +411,11 @@ Progress: Spent a lot of time working on images. But I have two of the sections 
 Thoughts: I hate image manipulation.
 
 Link to work: https://github.com/nicm42/starfleet-recruitment
+
+
+Day 52:
+Progress: Did Array Cardio 1 on Javascript30
+
+Thoughts: It was really good to revise map, filter and reduce.
+
+Link to work: Nothing to link.
