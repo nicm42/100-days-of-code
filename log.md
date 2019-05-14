@@ -419,3 +419,11 @@ Progress: Did Array Cardio 1 on Javascript30
 Thoughts: It was really good to revise map, filter and reduce.
 
 Link to work: Nothing to link.
+
+
+Day 53:
+Progress: Did a 7kyu kata on codewars - it was easy, but I learnt about converting objects to arrays. Did a few bits on the Starfleet website: set up navigation and did a bit on the carousel.
+
+Thoughts: Object.entries is really useful!
+
+Link to work: https://www.codewars.com/users/nicm42/completed and https://github.com/nicm42/starfleet-recruitment
