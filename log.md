@@ -427,3 +427,11 @@ Progress: Did a 7kyu kata on codewars - it was easy, but I learnt about converti
 Thoughts: Object.entries is really useful!
 
 Link to work: https://www.codewars.com/users/nicm42/completed and https://github.com/nicm42/starfleet-recruitment
+
+
+Day 54:
+Progress: Did some work on the look of the Starfleet website.
+
+Thoughts: It's looking better, but getting down to the harder bits now.
+
+Link to work: https://github.com/nicm42/starfleet-recruitment
