@@ -435,3 +435,12 @@ Progress: Did some work on the look of the Starfleet website.
 Thoughts: It's looking better, but getting down to the harder bits now.
 
 Link to work: https://github.com/nicm42/starfleet-recruitment
+
+
+Day 55:
+Progress: Worked some more on the Starfleet website
+
+Thoughts: I at last thought of something for the third section. It's just getting the complicated stuff working now, and it looking better.
+
+Link to work: https://github.com/nicm42/starfleet-recruitment
+
