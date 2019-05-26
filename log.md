@@ -444,3 +444,10 @@ Thoughts: I at last thought of something for the third section. It's just gettin
 
 Link to work: https://github.com/nicm42/starfleet-recruitment
 
+
+Day 56:
+Progress: Have done most of the bits on the Starfleet website
+
+Thoughts: So good to finally get the carousel sliding! Even if it's not 100% done yet.
+
+Link to work: https://github.com/nicm42/starfleet-recruitment
