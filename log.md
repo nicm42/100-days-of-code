@@ -451,3 +451,11 @@ Progress: Have done most of the bits on the Starfleet website
 Thoughts: So good to finally get the carousel sliding! Even if it's not 100% done yet.
 
 Link to work: https://github.com/nicm42/starfleet-recruitment
+
+
+Day 57:
+Progress: Finally finished the Starfleet site!
+
+Thoughts: Slide the carousel so much it made me feel dizzy! But it was a good puzzle to get my head into.
+
+Link to work: https://github.com/nicm42/starfleet-recruitment
