@@ -459,3 +459,11 @@ Progress: Finally finished the Starfleet site!
 Thoughts: Slide the carousel so much it made me feel dizzy! But it was a good puzzle to get my head into.
 
 Link to work: https://github.com/nicm42/starfleet-recruitment
+
+
+Day 58:
+Progress: Discovered the hero image is broken in the Starfleet site, then found it's just codepen that doesn't like it. Got halfway through Bootstrap on freeCcodeCamp. Did two 7kyu katas on codewars.
+
+Thoughts: That's half an hour of my life I'm never getting back. At least I know now that codepen and hero images don't play well together. Bootstrap is interesting so far, but I wonder how you know what to use. I'm out of practice at codewars, so 7kyu was about right, and The Office kata series are fun.
+
+Link to work: https://github.com/nicm42/starfleet-recruitment and https://www.freecodecamp.org/nicm42 and https://www.codewars.com/users/nicm42/completed
