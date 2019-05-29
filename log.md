@@ -467,3 +467,11 @@ Progress: Discovered the hero image is broken in the Starfleet site, then found 
 Thoughts: That's half an hour of my life I'm never getting back. At least I know now that codepen and hero images don't play well together. Bootstrap is interesting so far, but I wonder how you know what to use. I'm out of practice at codewars, so 7kyu was about right, and The Office kata series are fun.
 
 Link to work: https://github.com/nicm42/starfleet-recruitment and https://www.freecodecamp.org/nicm42 and https://www.codewars.com/users/nicm42/completed
+
+
+Day 59:
+Progress: Finished off the Bootstrap section and did the SASS section.
+
+Thoughts: Bootstrap has some cool stuff, but I need to investigate more to see what I might actually use. SASS is a lot like LESS, with some extra bits that could be useful.
+
+Link to work: https://www.freecodecamp.org/nicm42
