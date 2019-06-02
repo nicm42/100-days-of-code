@@ -475,3 +475,11 @@ Progress: Finished off the Bootstrap section and did the SASS section.
 Thoughts: Bootstrap has some cool stuff, but I need to investigate more to see what I might actually use. SASS is a lot like LESS, with some extra bits that could be useful.
 
 Link to work: https://www.freecodecamp.org/nicm42
+
+
+Day 60:
+Progress: Started React on freeCcodeCamp, did a Javascript30 video, did a few katas on codewars.
+
+Thoughts: React is... different. I can pretty much get the 7kyu katas down to 1 line, and 6kyu are getting easier, which is good.
+
+Link to work: https://www.freecodecamp.org/nicm42 and https://www.codewars.com/users/nicm42/completed
