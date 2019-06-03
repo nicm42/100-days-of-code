@@ -483,3 +483,11 @@ Progress: Started React on freeCcodeCamp, did a Javascript30 video, did a few ka
 Thoughts: React is... different. I can pretty much get the 7kyu katas down to 1 line, and 6kyu are getting easier, which is good.
 
 Link to work: https://www.freecodecamp.org/nicm42 and https://www.codewars.com/users/nicm42/completed
+
+
+Day 61:
+Progress: Did 6 React challenges on freeCodeCamp. Then did some reading/writing demo to understand why React.
+
+Thoughts: I understand something better if I understand why you'd use it. I think I am starting to get it and it is starting to feel less like learning a new language with a completely different character set.
+
+Link to work: https://www.freecodecamp.org/nicm42
