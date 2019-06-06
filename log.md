@@ -491,3 +491,11 @@ Progress: Did 6 React challenges on freeCodeCamp. Then did some reading/writing 
 Thoughts: I understand something better if I understand why you'd use it. I think I am starting to get it and it is starting to feel less like learning a new language with a completely different character set.
 
 Link to work: https://www.freecodecamp.org/nicm42
+
+
+Day 62:
+Progress: Did 7 React challenges on freeCodeCamp, all on props. Did Ajax Type Ahead on Javascript30.
+
+Thoughts: I feel like every time I come back to React I've forgotten everything. I just need to keep repeating it until it sinks in.
+
+Link to work: https://www.freecodecamp.org/nicm42
