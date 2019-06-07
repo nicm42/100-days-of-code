@@ -499,3 +499,11 @@ Progress: Did 7 React challenges on freeCodeCamp, all on props. Did Ajax Type Ah
 Thoughts: I feel like every time I come back to React I've forgotten everything. I just need to keep repeating it until it sinks in.
 
 Link to work: https://www.freecodecamp.org/nicm42
+
+
+Day 63:
+Progress: Did Array Cardio 2 on Javascipt30. Started the React tutorial on reactjs.org. Did 6 freeCcodeCamp challenges, all on state.
+
+Thoughts: The array cardio was much simpler than the previous one and introduced me to a load of array stuff I've never come across before. It's really helping, doing the freeCcodeCamp and React tutorial in tandem.
+
+Link to work: https://www.freecodecamp.org/nicm42
