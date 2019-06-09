@@ -507,3 +507,19 @@ Progress: Did Array Cardio 2 on Javascipt30. Started the React tutorial on react
 Thoughts: The array cardio was much simpler than the previous one and introduced me to a load of array stuff I've never come across before. It's really helping, doing the freeCcodeCamp and React tutorial in tandem.
 
 Link to work: https://www.freecodecamp.org/nicm42
+
+
+Day 64:
+Progress: Did 16 React challenges on freeCodeCamp. Did Fun with HTML5 canvas and 14 must know dev tools tricks on Javascript30.
+
+Thoughts: Still finding React hard going.
+
+Link to work: https://www.freecodecamp.org/nicm42
+
+
+Day 65:
+Progress: Finished the React challenges on freeCcodeCamp. Did some more of the tutorial on reactjs.org
+
+Thoughts: I'm definitely not confident enough to do any React on my own - I need to work through some more tutorials.
+
+Link to work: https://www.freecodecamp.org/nicm42
