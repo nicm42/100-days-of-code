@@ -523,3 +523,11 @@ Progress: Finished the React challenges on freeCcodeCamp. Did some more of the t
 Thoughts: I'm definitely not confident enough to do any React on my own - I need to work through some more tutorials.
 
 Link to work: https://www.freecodecamp.org/nicm42
+
+
+Day 66:
+Progress: Finished the React tutorial on reactjs.org. Did the first lesson of ES6 on Udacity.
+
+Thoughts: I definitely need to do some more React learning. It's been really useful to re-visit the ES6 stuff that didn't quite sink in the first time, but I've been using some of since.
+
+Link to work: Nothing to link
