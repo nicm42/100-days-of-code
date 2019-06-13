@@ -531,3 +531,11 @@ Progress: Finished the React tutorial on reactjs.org. Did the first lesson of ES
 Thoughts: I definitely need to do some more React learning. It's been really useful to re-visit the ES6 stuff that didn't quite sink in the first time, but I've been using some of since.
 
 Link to work: Nothing to link
+
+
+Day 67:
+Progress: Did the second lesson of ES6 on Udacity.
+
+Thoughts: It was good to get a review of arrow functions, since I still have to look the syntax up. Classes was a revelation because I've seen all that extends, constructor and super in React - suddenly that makes more sense!
+
+Link to work: Nothing to link
