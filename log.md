@@ -539,3 +539,11 @@ Progress: Did the second lesson of ES6 on Udacity.
 Thoughts: It was good to get a review of arrow functions, since I still have to look the syntax up. Classes was a revelation because I've seen all that extends, constructor and super in React - suddenly that makes more sense!
 
 Link to work: Nothing to link
+
+
+Day 68:
+Progress: Did the third lesson of ES6 on Udacity.
+
+Thoughts: That was hard. I need to go back and review some of the Javascript bits that freeCodeCamp didn't cover in detail or that I didn't quite get at the time.
+
+Link to work: Nothing to link
