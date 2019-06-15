@@ -547,3 +547,11 @@ Progress: Did the third lesson of ES6 on Udacity.
 Thoughts: That was hard. I need to go back and review some of the Javascript bits that freeCodeCamp didn't cover in detail or that I didn't quite get at the time.
 
 Link to work: Nothing to link
+
+
+Day 69:
+Progress: Finished the ES6 course on Udacity. Did most of the React part 1 course on CodeAcademy. Did a 5kyu kata on codewars.
+
+Thoughts: React is starting to feel more familiar.
+
+Link to work: https://www.codewars.com/users/nicm42/completed
