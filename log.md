@@ -333,7 +333,7 @@ Thoughts: Now I get DOM manipulation and events. It's very similar to jQuery, it
 Link to work: Nothing to link.
 
 
-Day 42:
+Day 42: 20th April 019
 Progress: Revised template literals and CSS animations and transitions. Learnt the CSS box model. Did a 6kyu kata on codewars. Started on a simple game to use CSS animations and JS DOM manipulation.
 
 Thoughts: Now I get the difference between border-box and content-box. Those 6kyu katas are getting easier.
@@ -341,7 +341,7 @@ Thoughts: Now I get the difference between border-box and content-box. Those 6ky
 Link to work: W3C exercises and https://www.codewars.com/users/nicm42/completed and https://github.com/nicm42/clickthedot
 
 
-Day 43:
+Day 43: 21st April 2019
 Progress: Worked on the game and now have the basic functionality sorted.
 
 Thoughts: I could do this all in jQuery so easily, but JS is just different enough that I keep having to look up everything I do. But then that was why I was doing this, after all.
@@ -349,7 +349,7 @@ Thoughts: I could do this all in jQuery so easily, but JS is just different enou
 Link to work: https://github.com/nicm42/clickthedot
 
 
-Day 44:
+Day 44: 22nd April 2019
 Progress: Did an easy 7kyu kata on codewars to get it off my incomplete list. Worked on my game - have the basic structure down, just need to make some refinements.
 
 Thoughts: Having a game that works is pretty cool! It shouldn't take too many more days to finish. I definitely need to do more 6kyu katas, although trying to do 7kyu ones efficiently is a good exercise if I don't have much time.
@@ -357,7 +357,7 @@ Thoughts: Having a game that works is pretty cool! It shouldn't take too many mo
 Link to work: https://www.codewars.com/users/nicm42/completed and https://github.com/nicm42/clickthedot
 
 
-Day 45:
+Day 45: 23rd April 2019
 Progress: Updated the game so it can start with a circle of any size.
 
 Thoughts: An hour and I managed to achieve one thing. I just kept finding other things it impacted and needed to find other ways of doing things. However, I feel like I learnt a lot more than I have any other day working on it.
@@ -365,7 +365,7 @@ Thoughts: An hour and I managed to achieve one thing. I just kept finding other 
 Link to work: https://github.com/nicm42/clickthedot
 
 
-Day 46:
+Day 46: 24th April 2019
 Progress: Added a reset button to the game.
 
 Thoughts: Starting to feel like I've learnt my way around this stuff now. And really enjoying the game!
@@ -373,7 +373,7 @@ Thoughts: Starting to feel like I've learnt my way around this stuff now. And re
 Link to work: https://github.com/nicm42/clickthedot
 
 
-Day 47:
+Day 47: 27th April 2019
 Progress: Discovered codingame and completed 3 puzzles
 
 Thoughts: It took me a while to understand the platform, but it's fun to use code and see how it changes the video.
@@ -381,7 +381,7 @@ Thoughts: It took me a while to understand the platform, but it's fun to use cod
 Link to work: https://www.codingame.com/profile/7b3a5f483c1d1a240c8914fce895dc898958233
 
 
-Day 48:
+Day 48: 5th May 2019
 Progress: Did two codingame puzzles.
 
 Thoughts: One was so easy I thought I was missing something. The other took a while.
@@ -389,7 +389,7 @@ Thoughts: One was so easy I thought I was missing something. The other took a wh
 Link to work: https://www.codingame.com/profile/7b3a5f483c1d1a240c8914fce895dc898958233
 
 
-Day 49:
+Day 49: 6th May 2019
 Progress: Finished the game!
 
 Thoughts: That was harder for the week off. I have ideas for how to make it harder, but it's done its job with me getting to grips with DOM manipulation in JS.
@@ -397,7 +397,7 @@ Thoughts: That was harder for the week off. I have ideas for how to make it hard
 Link to work: https://github.com/nicm42/clickthedot
 
 
-Day 50:
+Day 50: 11th May 2019
 Progress: Made a start on a Starfleet Recruitment website using LESS.
 
 Thoughts: Spent most of my time sorting out Sublime Text to cope with LESS. After a re-install it can now not only cope with LESS, but doesn't give me errors all over the place. Spent the rest of the time looking up facts. But I have the basic structure down now, I just need to make it look pretty.
@@ -405,7 +405,7 @@ Thoughts: Spent most of my time sorting out Sublime Text to cope with LESS. Afte
 Link to work: https://github.com/nicm42/starfleet-recruitment
 
 
-Day 51:
+Day 51: 12th May 2019
 Progress: Spent a lot of time working on images. But I have two of the sections largely done.
 
 Thoughts: I hate image manipulation.
@@ -413,7 +413,7 @@ Thoughts: I hate image manipulation.
 Link to work: https://github.com/nicm42/starfleet-recruitment
 
 
-Day 52:
+Day 52: 13th May 2019
 Progress: Did Array Cardio 1 on Javascript30
 
 Thoughts: It was really good to revise map, filter and reduce.
@@ -421,7 +421,7 @@ Thoughts: It was really good to revise map, filter and reduce.
 Link to work: Nothing to link.
 
 
-Day 53:
+Day 53: 14th May 2019
 Progress: Did a 7kyu kata on codewars - it was easy, but I learnt about converting objects to arrays. Did a few bits on the Starfleet website: set up navigation and did a bit on the carousel.
 
 Thoughts: Object.entries is really useful!
@@ -429,7 +429,7 @@ Thoughts: Object.entries is really useful!
 Link to work: https://www.codewars.com/users/nicm42/completed and https://github.com/nicm42/starfleet-recruitment
 
 
-Day 54:
+Day 54: 15th May 2019
 Progress: Did some work on the look of the Starfleet website.
 
 Thoughts: It's looking better, but getting down to the harder bits now.
@@ -437,7 +437,7 @@ Thoughts: It's looking better, but getting down to the harder bits now.
 Link to work: https://github.com/nicm42/starfleet-recruitment
 
 
-Day 55:
+Day 55: 25th May 2019
 Progress: Worked some more on the Starfleet website
 
 Thoughts: I at last thought of something for the third section. It's just getting the complicated stuff working now, and it looking better.
@@ -445,7 +445,7 @@ Thoughts: I at last thought of something for the third section. It's just gettin
 Link to work: https://github.com/nicm42/starfleet-recruitment
 
 
-Day 56:
+Day 56: 26th May 2019
 Progress: Have done most of the bits on the Starfleet website
 
 Thoughts: So good to finally get the carousel sliding! Even if it's not 100% done yet.
@@ -453,7 +453,7 @@ Thoughts: So good to finally get the carousel sliding! Even if it's not 100% don
 Link to work: https://github.com/nicm42/starfleet-recruitment
 
 
-Day 57:
+Day 57: 27th May 2019
 Progress: Finally finished the Starfleet site!
 
 Thoughts: Slide the carousel so much it made me feel dizzy! But it was a good puzzle to get my head into.
@@ -461,7 +461,7 @@ Thoughts: Slide the carousel so much it made me feel dizzy! But it was a good pu
 Link to work: https://github.com/nicm42/starfleet-recruitment
 
 
-Day 58:
+Day 58: 28th May 2019
 Progress: Discovered the hero image is broken in the Starfleet site, then found it's just codepen that doesn't like it. Got halfway through Bootstrap on freeCcodeCamp. Did two 7kyu katas on codewars.
 
 Thoughts: That's half an hour of my life I'm never getting back. At least I know now that codepen and hero images don't play well together. Bootstrap is interesting so far, but I wonder how you know what to use. I'm out of practice at codewars, so 7kyu was about right, and The Office kata series are fun.
@@ -469,7 +469,7 @@ Thoughts: That's half an hour of my life I'm never getting back. At least I know
 Link to work: https://github.com/nicm42/starfleet-recruitment and https://www.freecodecamp.org/nicm42 and https://www.codewars.com/users/nicm42/completed
 
 
-Day 59:
+Day 59: 29th May 2019
 Progress: Finished off the Bootstrap section and did the SASS section.
 
 Thoughts: Bootstrap has some cool stuff, but I need to investigate more to see what I might actually use. SASS is a lot like LESS, with some extra bits that could be useful.
@@ -477,7 +477,7 @@ Thoughts: Bootstrap has some cool stuff, but I need to investigate more to see w
 Link to work: https://www.freecodecamp.org/nicm42
 
 
-Day 60:
+Day 60: 2nd June 2019
 Progress: Started React on freeCcodeCamp, did a Javascript30 video, did a few katas on codewars.
 
 Thoughts: React is... different. I can pretty much get the 7kyu katas down to 1 line, and 6kyu are getting easier, which is good.
@@ -485,7 +485,7 @@ Thoughts: React is... different. I can pretty much get the 7kyu katas down to 1 
 Link to work: https://www.freecodecamp.org/nicm42 and https://www.codewars.com/users/nicm42/completed
 
 
-Day 61:
+Day 61: 3rd June 2019
 Progress: Did 6 React challenges on freeCodeCamp. Then did some reading/writing demo to understand why React.
 
 Thoughts: I understand something better if I understand why you'd use it. I think I am starting to get it and it is starting to feel less like learning a new language with a completely different character set.
@@ -493,7 +493,7 @@ Thoughts: I understand something better if I understand why you'd use it. I thin
 Link to work: https://www.freecodecamp.org/nicm42
 
 
-Day 62:
+Day 62: 6th June 2019
 Progress: Did 7 React challenges on freeCodeCamp, all on props. Did Ajax Type Ahead on Javascript30.
 
 Thoughts: I feel like every time I come back to React I've forgotten everything. I just need to keep repeating it until it sinks in.
@@ -501,7 +501,7 @@ Thoughts: I feel like every time I come back to React I've forgotten everything.
 Link to work: https://www.freecodecamp.org/nicm42
 
 
-Day 63:
+Day 63: 7th June 2019
 Progress: Did Array Cardio 2 on Javascipt30. Started the React tutorial on reactjs.org. Did 6 freeCcodeCamp challenges, all on state.
 
 Thoughts: The array cardio was much simpler than the previous one and introduced me to a load of array stuff I've never come across before. It's really helping, doing the freeCcodeCamp and React tutorial in tandem.
@@ -509,7 +509,7 @@ Thoughts: The array cardio was much simpler than the previous one and introduced
 Link to work: https://www.freecodecamp.org/nicm42
 
 
-Day 64:
+Day 64: 8th June 2019
 Progress: Did 16 React challenges on freeCodeCamp. Did Fun with HTML5 canvas and 14 must know dev tools tricks on Javascript30.
 
 Thoughts: Still finding React hard going.
@@ -517,7 +517,7 @@ Thoughts: Still finding React hard going.
 Link to work: https://www.freecodecamp.org/nicm42
 
 
-Day 65:
+Day 65: 9th June 2019
 Progress: Finished the React challenges on freeCcodeCamp. Did some more of the tutorial on reactjs.org
 
 Thoughts: I'm definitely not confident enough to do any React on my own - I need to work through some more tutorials.
@@ -525,7 +525,7 @@ Thoughts: I'm definitely not confident enough to do any React on my own - I need
 Link to work: https://www.freecodecamp.org/nicm42
 
 
-Day 66:
+Day 66: 10th June 2019
 Progress: Finished the React tutorial on reactjs.org. Did the first lesson of ES6 on Udacity.
 
 Thoughts: I definitely need to do some more React learning. It's been really useful to re-visit the ES6 stuff that didn't quite sink in the first time, but I've been using some of since.
@@ -533,7 +533,7 @@ Thoughts: I definitely need to do some more React learning. It's been really use
 Link to work: Nothing to link
 
 
-Day 67:
+Day 67: 13th June 2019
 Progress: Did the second lesson of ES6 on Udacity.
 
 Thoughts: It was good to get a review of arrow functions, since I still have to look the syntax up. Classes was a revelation because I've seen all that extends, constructor and super in React - suddenly that makes more sense!
@@ -541,7 +541,7 @@ Thoughts: It was good to get a review of arrow functions, since I still have to 
 Link to work: Nothing to link
 
 
-Day 68:
+Day 68: 14th June 2019
 Progress: Did the third lesson of ES6 on Udacity.
 
 Thoughts: That was hard. I need to go back and review some of the Javascript bits that freeCodeCamp didn't cover in detail or that I didn't quite get at the time.
@@ -549,9 +549,17 @@ Thoughts: That was hard. I need to go back and review some of the Javascript bit
 Link to work: Nothing to link
 
 
-Day 69:
+Day 69: 15th June 2019
 Progress: Finished the ES6 course on Udacity. Did most of the React part 1 course on CodeAcademy. Did a 5kyu kata on codewars.
 
 Thoughts: React is starting to feel more familiar.
+
+Link to work: https://www.codewars.com/users/nicm42/completed
+
+
+Day 70: 16th June 2019
+Progress: Finished the React I course on CodeAcademy. Did a 6kyu kata on codewars. Did day 10 on Javascript30.
+
+Thoughts: I think I get simple React, I just need to try it and make sure I've got my head round that before re-learning the  more complicated bits. The Javascript30 one I tried and got it to work (better than the video's one!), although my code was a lot longer.
 
 Link to work: https://www.codewars.com/users/nicm42/completed
