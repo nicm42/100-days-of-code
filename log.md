@@ -563,3 +563,11 @@ Progress: Finished the React I course on CodeAcademy. Did a 6kyu kata on codewar
 Thoughts: I think I get simple React, I just need to try it and make sure I've got my head round that before re-learning the  more complicated bits. The Javascript30 one I tried and got it to work (better than the video's one!), although my code was a lot longer.
 
 Link to work: https://www.codewars.com/users/nicm42/completed
+
+
+Day 71: 17th June 2019
+Progress: Did a 6kyu kata on codewars.
+
+Thoughts: I came up with two different ways of doing it - now I've looked at others solutions I see how I could have made the first way shorter and more efficient without having to completely rewrite it.
+
+Link to work: https://www.codewars.com/users/nicm42/completed
