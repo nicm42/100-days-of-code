@@ -571,3 +571,11 @@ Progress: Did a 6kyu kata on codewars.
 Thoughts: I came up with two different ways of doing it - now I've looked at others solutions I see how I could have made the first way shorter and more efficient without having to completely rewrite it.
 
 Link to work: https://www.codewars.com/users/nicm42/completed
+
+
+Day 72: 22nd June 2019
+Progress: Created my first React app!
+
+Thoughts: Although it's quite simple, it got more complicated than I initially thought. But I have now understood it all better, which was the whole point of creating it in the first place.
+
+Link to work: https://github.com/nicm42/red-button and https://codepen.io/nicm42/pen/zVZVvL
