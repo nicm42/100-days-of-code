@@ -579,3 +579,11 @@ Progress: Created my first React app!
 Thoughts: Although it's quite simple, it got more complicated than I initially thought. But I have now understood it all better, which was the whole point of creating it in the first place.
 
 Link to work: https://github.com/nicm42/red-button and https://codepen.io/nicm42/pen/zVZVvL
+
+
+Day 73: 26th June 2019
+Progress: Did a 6kyu kata at codewars.
+
+Thoughts: It seemed simple, but was hard. I learnt a lot - including that I made it more complicated than it needed to be.
+
+Link to work: https://www.codewars.com/users/nicm42/completed
