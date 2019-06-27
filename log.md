@@ -587,3 +587,11 @@ Progress: Did a 6kyu kata at codewars.
 Thoughts: It seemed simple, but was hard. I learnt a lot - including that I made it more complicated than it needed to be.
 
 Link to work: https://www.codewars.com/users/nicm42/completed
+
+
+Day 74: 27th June 2019
+Progress: Did three 6kyu katas at codewars.
+
+Thoughts: They weren't as simple as I initially thought, but the first two weren't that hard. The third took me ages, but I understand some more regex now.
+
+Link to work: https://www.codewars.com/users/nicm42/completed
