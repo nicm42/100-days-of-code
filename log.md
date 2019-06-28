@@ -595,3 +595,11 @@ Progress: Did three 6kyu katas at codewars.
 Thoughts: They weren't as simple as I initially thought, but the first two weren't that hard. The third took me ages, but I understand some more regex now.
 
 Link to work: https://www.codewars.com/users/nicm42/completed
+
+
+Day 75: 28th June 2019
+Progress: Found a set of katas that was interesting. One was a 6kyu, the rest were 7kyu and 8kyu.
+
+Thoughts: The 6kyu turned out to be simple, and I got it down to three lines (could have managed two but then I thought it would have been too hard to read). The 8s were simple and I challenged myself to do them in one line. One of the 7s was surprisingly hard!
+
+Link to work: https://www.codewars.com/users/nicm42/completed
