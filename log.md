@@ -603,3 +603,11 @@ Progress: Found a set of katas that was interesting. One was a 6kyu, the rest we
 Thoughts: The 6kyu turned out to be simple, and I got it down to three lines (could have managed two but then I thought it would have been too hard to read). The 8s were simple and I challenged myself to do them in one line. One of the 7s was surprisingly hard!
 
 Link to work: https://www.codewars.com/users/nicm42/completed
+
+
+Day 76: 30th June 2019
+Progress: Did a couple of 7kyu katas on codewars to rank up to 5kyu. Started on my portfolio.
+
+Thoughts: They weren't that easy and I couldn't do either of them in one line, but that still felt a bit like cheating to get the rank up. Portfolio is all very standard so far.
+
+Link to work: https://www.codewars.com/users/nicm42/completed and https://github.com/nicm42/nicm42.github.io
