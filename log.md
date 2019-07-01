@@ -611,3 +611,11 @@ Progress: Did a couple of 7kyu katas on codewars to rank up to 5kyu. Started on 
 Thoughts: They weren't that easy and I couldn't do either of them in one line, but that still felt a bit like cheating to get the rank up. Portfolio is all very standard so far.
 
 Link to work: https://www.codewars.com/users/nicm42/completed and https://github.com/nicm42/nicm42.github.io
+
+
+Day 77: 1st July 21019
+Progress: Did some work on my portfolio. Did the SASS course on CodeAcademy.
+
+Thoughts: I needed that reminder on SASS - it is pretty simple.
+
+Link to work: https://github.com/nicm42/nicm42.github.io and https://www.codecademy.com/nicm42
