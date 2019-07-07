@@ -619,3 +619,11 @@ Progress: Did some work on my portfolio. Did the SASS course on CodeAcademy.
 Thoughts: I needed that reminder on SASS - it is pretty simple.
 
 Link to work: https://github.com/nicm42/nicm42.github.io and https://www.codecademy.com/nicm42
+
+
+Day 78: 7th July 2019
+Progress: Did some of the Ajax course on Udacity. Did the Ajax section on freeCcodeCamp.
+
+Thoughts: The Udacity one was great at explaining it, but was too old and the things you needed to do just don't work any more. The freeCcodeCamp section was helpful, but all the challenges were solved by copying the examples it gave.
+
+Link to work: https://www.freecodecamp.org/nicm42
