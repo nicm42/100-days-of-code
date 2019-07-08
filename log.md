@@ -627,3 +627,11 @@ Progress: Did some of the Ajax course on Udacity. Did the Ajax section on freeCc
 Thoughts: The Udacity one was great at explaining it, but was too old and the things you needed to do just don't work any more. The freeCcodeCamp section was helpful, but all the challenges were solved by copying the examples it gave.
 
 Link to work: https://www.freecodecamp.org/nicm42
+
+
+Day 79: 8th July 2019
+Progress: Worked on my Portfolio.
+
+Thoughts: I realised it looked a bit amateur and used some websites I'd used at the weekend for inspiration. It's not finished, but I think it looks a lot cleaner and better now.
+
+Link to work: https://github.com/nicm42/nicm42.github.io
