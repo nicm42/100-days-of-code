@@ -635,3 +635,11 @@ Progress: Worked on my Portfolio.
 Thoughts: I realised it looked a bit amateur and used some websites I'd used at the weekend for inspiration. It's not finished, but I think it looks a lot cleaner and better now.
 
 Link to work: https://github.com/nicm42/nicm42.github.io
+
+
+Day 80: 15th July 2019
+Progress: Worked on my Portfolio.
+
+Thoughts: It's nearly there! It just needs a few things so it looks cooler.
+
+Link to work: https://github.com/nicm42/nicm42.github.io
