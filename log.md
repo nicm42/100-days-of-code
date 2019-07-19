@@ -651,3 +651,11 @@ Progress: Decided to take a break from my portfolio and try working with an api.
 Thoughts: I picked a hard one - it returns xml (my examples are all JSON) and it needs CORS headers. But a lot of googling got me solutions and I got there in the end. I just need to do something with what it's returned.
 
 Link to work: https://github.com/nicm42/reading-wednesday
+
+
+Day 82: 19th July 2019
+Progress: Worked on the api project.
+
+Thoughts:  have got it picking up the title and author from inputs, but realised I need it to do it all three times from one form submission, so I need to think about how best to do that.
+
+Link to work: https://github.com/nicm42/reading-wednesday
