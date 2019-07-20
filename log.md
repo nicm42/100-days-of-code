@@ -656,6 +656,14 @@ Link to work: https://github.com/nicm42/reading-wednesday
 Day 82: 19th July 2019
 Progress: Worked on the api project.
 
-Thoughts:  have got it picking up the title and author from inputs, but realised I need it to do it all three times from one form submission, so I need to think about how best to do that.
+Thoughts: I have got it picking up the title and author from inputs, but realised I need it to do it all three times from one form submission, so I need to think about how best to do that.
+
+Link to work: https://github.com/nicm42/reading-wednesday
+
+
+Day 83: 20th July 2019
+Progress: Did some more work on the api project
+
+Thoughts: I had to re-do the way it was getting information from the api twice. But now I understand asynchronous Javascript, which I had been meaning to look into more.
 
 Link to work: https://github.com/nicm42/reading-wednesday
