@@ -667,3 +667,11 @@ Progress: Did some more work on the api project
 Thoughts: I had to re-do the way it was getting information from the api twice. But now I understand asynchronous Javascript, which I had been meaning to look into more.
 
 Link to work: https://github.com/nicm42/reading-wednesday
+
+
+Day 84: 21st July 2019
+Progress: Worked on my portfolio and the api projects
+
+Thoughts: I finally fixed the menu problems that had been annoying me on my portfolio. There are a whole load of things that need doing with it, some of which include more/better projects. So I've launched it as v1 for now and will come back to it later. The api project is all sorted (after I dreamed about it...). I just have to do the css.
+
+Link to work: https://github.com/nicm42/nicm42.github.io and https://github.com/nicm42/reading-wednesday
