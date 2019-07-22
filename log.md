@@ -675,3 +675,11 @@ Progress: Worked on my portfolio and the api projects
 Thoughts: I finally fixed the menu problems that had been annoying me on my portfolio. There are a whole load of things that need doing with it, some of which include more/better projects. So I've launched it as v1 for now and will come back to it later. The api project is all sorted (after I dreamed about it...). I just have to do the css.
 
 Link to work: https://github.com/nicm42/nicm42.github.io and https://github.com/nicm42/reading-wednesday
+
+
+Day 85: 22nd July 2019
+Progress: Finished the api project!
+
+Thoughts: At least the css part wasn't too hard. I just have to work out how to add it to Netlify next.
+
+Link to work: https://github.com/nicm42/reading-wednesday
