@@ -691,3 +691,11 @@ Progress: Added an instructions pop-up to the api project.
 Thoughts: I took a break for the heatwave, during which I realised I couldn't just add the instructions and limitations to a post when I launch it. And then it took longer to do than I thought - mostly due to all the ways I could think of to close the pop-up and the transitions. Tomorrow I need to fix the fact you now can't type in the form or press the submit button...
 
 Link to work: https://github.com/nicm42/reading-wednesday
+
+
+Day 87: 29th July 2019
+Progress: Finished the api project
+
+Thoughts: I spent the night thinking that z-index would do it, and it did. I managed to stop making changes and launch the thing. Anything else will be for v2.
+
+Link to work: https://github.com/nicm42/reading-wednesday
