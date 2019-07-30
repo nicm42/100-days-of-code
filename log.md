@@ -699,3 +699,11 @@ Progress: Finished the api project
 Thoughts: I spent the night thinking that z-index would do it, and it did. I managed to stop making changes and launch the thing. Anything else will be for v2.
 
 Link to work: https://github.com/nicm42/reading-wednesday
+
+
+Day 88: 30th July 2019
+Progress: Did the Asynchronous Javascript course on CodeAcademy.
+
+Thoughts: Now I get what I was doing in the api project. I just need to look back at it and see where it can be improved, now I understand how it all works.
+
+Link to work: https://www.codecademy.com/profiles/nicm42
