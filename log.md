@@ -707,3 +707,11 @@ Progress: Did the Asynchronous Javascript course on CodeAcademy.
 Thoughts: Now I get what I was doing in the api project. I just need to look back at it and see where it can be improved, now I understand how it all works.
 
 Link to work: https://www.codecademy.com/profiles/nicm42
+
+
+Day 89: 15th August 2019
+Progress: Worked on my portfolio.
+
+Thoughts: It is starting to look better now. Also, where did August go?
+
+Link to work: https://github.com/nicm42/nicm42.github.io
