@@ -715,3 +715,11 @@ Progress: Worked on my portfolio.
 Thoughts: It is starting to look better now. Also, where did August go?
 
 Link to work: https://github.com/nicm42/nicm42.github.io
+
+
+Day 90: 12th September 2019
+Progress: Started a CodeAcademy module on Javascript unit testing and did one on transpiling ES6 to ES5.
+
+Thoughts: It's so hard to get back into it after a long break. But CodeAcademy offering a month free has helped me want to get through all the Pro courses I can!
+
+Link to work: https://www.codecademy.com/profiles/nicm42
