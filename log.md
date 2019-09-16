@@ -717,9 +717,17 @@ Thoughts: It is starting to look better now. Also, where did August go?
 Link to work: https://github.com/nicm42/nicm42.github.io
 
 
-Day 90: 12th September 2019
+Day 90: 11th September 2019
 Progress: Started a CodeAcademy module on Javascript unit testing and did one on transpiling ES6 to ES5.
 
 Thoughts: It's so hard to get back into it after a long break. But CodeAcademy offering a month free has helped me want to get through all the Pro courses I can!
+
+Link to work: https://www.codecademy.com/profiles/nicm42
+
+
+Day 91: 16th September 2019
+Progress: Did the CodeAcademy module on Javascript classes.
+
+Thoughts: I have done Classes before, but never quite got them because I've never used them. But React is all about classes, so it's been a good reminder before I go back and do React again.
 
 Link to work: https://www.codecademy.com/profiles/nicm42
