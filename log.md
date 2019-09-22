@@ -731,3 +731,11 @@ Progress: Did the CodeAcademy module on Javascript classes.
 Thoughts: I have done Classes before, but never quite got them because I've never used them. But React is all about classes, so it's been a good reminder before I go back and do React again.
 
 Link to work: https://www.codecademy.com/profiles/nicm42
+
+
+Day 92: 22nd September 2019
+Progress: Did the CodeAcademy module on Javascript modules.
+
+Thoughts: I don't think I've come across modules before, except in React. So it was good to get a JS overview.
+
+Link to work: https://www.codecademy.com/profiles/nicm42
