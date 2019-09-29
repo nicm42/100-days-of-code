@@ -739,3 +739,11 @@ Progress: Did the CodeAcademy module on Javascript modules.
 Thoughts: I don't think I've come across modules before, except in React. So it was good to get a JS overview.
 
 Link to work: https://www.codecademy.com/profiles/nicm42
+
+
+Day 93: 29th September 2019
+Progress: Did the CodeAcademy module on Javascript iterators. Did a 7kyu kata on codewars
+
+Thoughts: It's map, filter and reduce again! It was good to get a reminder of these, since I always need to look them up. It was good to get back into codewars. A 7kyu was a nice challenge to get into as few lines as possible without being really hard.
+
+Link to work: https://www.codecademy.com/profiles/nicm42 and https://www.codewars.com/users/nicm42/completed
