@@ -747,3 +747,27 @@ Progress: Did the CodeAcademy module on Javascript iterators. Did a 7kyu kata on
 Thoughts: It's map, filter and reduce again! It was good to get a reminder of these, since I always need to look them up. It was good to get back into codewars. A 7kyu was a nice challenge to get into as few lines as possible without being really hard.
 
 Link to work: https://www.codecademy.com/profiles/nicm42 and https://www.codewars.com/users/nicm42/completed
+
+
+Day 94: 30th September 2019
+Progress: Did the CodeAcademy modules on Testing for Web Development and Bootstrap
+
+Thoughts: I struggled with a testing, it was a bit abstract. The Bootstrap one was a good reminder of Bootstrap and what you can do with it.
+
+Link to work: https://www.codecademy.com/profiles/nicm42
+
+
+Day 94: 6th October 2019
+Progress: Remembered Hacktoberfest starts this month. I registered and did my first 2 PRs.
+
+Thoughts: No coding yet, but I have now learnt how to do PRs, which is making them a little less scary.
+
+Link to work: https://github.com/nicm42/
+
+
+Day 95: 8th October 2019
+Progress: Made 3 more PRs. Two were basically for learning purposes. But when I went to make one of them I found a typo in the docs so I fixed it.
+
+Thoughts: It feels good to help someone out with the typos! And they don't hate me for it (however irrational that is, that was my fear).
+
+Link to work: https://github.com/nicm42/
