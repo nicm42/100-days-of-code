@@ -771,3 +771,11 @@ Progress: Made 3 more PRs. Two were basically for learning purposes. But when I 
 Thoughts: It feels good to help someone out with the typos! And they don't hate me for it (however irrational that is, that was my fear).
 
 Link to work: https://github.com/nicm42/
+
+
+Day 96: 12th October 2019
+Progress: Did a couple of PRs. One was just adding a quote, one was working on the Javascript for a calculator.
+
+Thoughts: I do now remember how to do these, which is definitely an improvement. I am excited to have contributed something that used Javascript - it was interesting to do it using the same style as the original.
+
+Link to work: https://github.com/nicm42/
