@@ -779,3 +779,11 @@ Progress: Did a couple of PRs. One was just adding a quote, one was working on t
 Thoughts: I do now remember how to do these, which is definitely an improvement. I am excited to have contributed something that used Javascript - it was interesting to do it using the same style as the original.
 
 Link to work: https://github.com/nicm42/
+
+
+Day 97: 13th October 2019
+Progress: Did three PRs, one Javascript, one HTML/CSS and one just adding to a list in a json file.
+
+Thoughts: Designing something was fun, as was playing about with a script. I also learnt how to pick up changes from the original into my fork and how not to deal with merge conflicts.
+
+Link to work: https://github.com/nicm42/
