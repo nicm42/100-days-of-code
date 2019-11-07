@@ -787,3 +787,11 @@ Progress: Did three PRs, one Javascript, one HTML/CSS and one just adding to a l
 Thoughts: Designing something was fun, as was playing about with a script. I also learnt how to pick up changes from the original into my fork and how not to deal with merge conflicts.
 
 Link to work: https://github.com/nicm42/
+
+
+Day 98: 7th November 2019
+Progress: Did three codewars katas, one 8kyu, one 6kyu and one 5kyu.
+
+Thoughts: The 5kyu was hard to work out the logic of, but was simple once I did. The 8kyu I did in one line. The 6yu was all right.
+
+Link to work: https://www.codewars.com/users/nicm42/completed
