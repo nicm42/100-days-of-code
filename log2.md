@@ -16,10 +16,17 @@ Thoughts: Despite having used jQuery last month, I copy and paste so much I had 
 Link to work: https://grand-slams.netlify.com/
 
 
-
 Day 3: 3rd February 2020
 Progress: Started a spaceship store landing page using Bootstrap.
 
 Thoughts: The carousel is much easier to set up than doing it by hand. Although I won't really be able to finish it and make it look nice until I have all the content in there.
+
+Link to work: https://github.com/nicm42/spaceship-store
+
+
+Day 4: 4th February 2020
+Progress: Added some more Bootstrap to the spaceship store
+
+Thoughts: I think I'm reading more than I'm coding, but then I expected that, as there's a lot of Bootstrap options. But it's pretty cool to just drop some HTML in and have it look pretty good straight away.
 
 Link to work: https://github.com/nicm42/spaceship-store
