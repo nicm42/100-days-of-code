@@ -30,3 +30,13 @@ Progress: Added some more Bootstrap to the spaceship store
 Thoughts: I think I'm reading more than I'm coding, but then I expected that, as there's a lot of Bootstrap options. But it's pretty cool to just drop some HTML in and have it look pretty good straight away.
 
 Link to work: https://github.com/nicm42/spaceship-store
+
+
+Day 5: 5th February 2020
+Progress: Added some more Bootstrap to the spaceship store
+
+Thoughts: It is starting to look pretty cool with pretty much nothing in the CSS. I just need to sort out some actual content!
+
+Link to work: https://github.com/nicm42/spaceship-store
+
+
