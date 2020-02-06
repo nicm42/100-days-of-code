@@ -40,3 +40,11 @@ Thoughts: It is starting to look pretty cool with pretty much nothing in the CSS
 Link to work: https://github.com/nicm42/spaceship-store
 
 
+Day 6: 6th February 2020
+Progress: Added some more Bootstrap to the spaceship store
+
+Thoughts: It is looking better the more content I add.
+
+Link to work: https://github.com/nicm42/spaceship-store
+
+
