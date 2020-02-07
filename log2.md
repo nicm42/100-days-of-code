@@ -48,3 +48,11 @@ Thoughts: It is looking better the more content I add.
 Link to work: https://github.com/nicm42/spaceship-store
 
 
+Day 7: 7th February 2020
+Progress: Finished off the Bootstrap adding
+
+Thoughts: I just need to make decisions about the look and come up with some images and text
+
+Link to work: https://github.com/nicm42/spaceship-store
+
+
