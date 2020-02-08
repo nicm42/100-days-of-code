@@ -56,3 +56,11 @@ Thoughts: I just need to make decisions about the look and come up with some ima
 Link to work: https://github.com/nicm42/spaceship-store
 
 
+Day 8: 8th February 2020
+Progress: Finished off The Spaceship Store!
+
+Thoughts: I like how I have a pretty cool looking site with no scripting that I needed to do and very little CSS.
+
+Link to work: https://github.com/nicm42/spaceship-store and https://spaceshipstore.netlify.com/
+
+
