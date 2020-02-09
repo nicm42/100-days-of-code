@@ -64,3 +64,11 @@ Thoughts: I like how I have a pretty cool looking site with no scripting that I 
 Link to work: https://github.com/nicm42/spaceship-store and https://spaceshipstore.netlify.com/
 
 
+Day 9: 9th February 2020
+Progress: Did a 7kyu kata at codewars to get back into it, and tidied up my GitHub repositories and readmes.
+
+Thoughts: It's going to take me a while to get back to 6kyu katas, never mind 5kyu ones.
+
+Link to work: https://www.codewars.com/users/nicm42
+
+
