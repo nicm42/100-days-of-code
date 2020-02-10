@@ -72,3 +72,11 @@ Thoughts: It's going to take me a while to get back to 6kyu katas, never mind 5k
 Link to work: https://www.codewars.com/users/nicm42
 
 
+Day 10: 10th February 2020
+Progress: Added latest two projects to my portfolio
+
+Thoughts: Now I'm happier that the sites I have in there are ones I'm proud of.
+
+Link to work: https://nicm42.github.io/
+
+
