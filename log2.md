@@ -80,3 +80,9 @@ Thoughts: Now I'm happier that the sites I have in there are ones I'm proud of.
 Link to work: https://nicm42.github.io/
 
 
+Day 11: 11th February 2020
+Progress: Did the first lesson in the HTML5 canvas tutorial at Udacity.
+
+Thoughts: I had no idea the things you could do with the canvas. It's pretty cool and I'm glad I have done a tutorial rather than reading through documents, because it's giving me a start to understand it.
+
+Link to work: None
