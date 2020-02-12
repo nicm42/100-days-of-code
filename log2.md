@@ -86,3 +86,12 @@ Progress: Did the first lesson in the HTML5 canvas tutorial at Udacity.
 Thoughts: I had no idea the things you could do with the canvas. It's pretty cool and I'm glad I have done a tutorial rather than reading through documents, because it's giving me a start to understand it.
 
 Link to work: None
+
+
+
+Day 12: 12th February 2020
+Progress: I finished off the HTML5 canvas tutorial at Udacity
+
+Thoughts: That got complicated quickly! But it was pretty cool. Now I just need to do something with te canvas.
+
+Link to work: None
