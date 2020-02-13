@@ -88,10 +88,17 @@ Thoughts: I had no idea the things you could do with the canvas. It's pretty coo
 Link to work: None
 
 
-
 Day 12: 12th February 2020
 Progress: I finished off the HTML5 canvas tutorial at Udacity
 
 Thoughts: That got complicated quickly! But it was pretty cool. Now I just need to do something with te canvas.
 
 Link to work: None
+
+
+Day 13: 13th February 2020
+Progress: I copied the RI Christmas Lectures fireworks and then improved them
+
+Thoughts: It's been interesting how many different aspects of the canvas and Javascript in general that I've learnt/needed to use.
+
+Link to work: https://github.com/nicm42/fireworks
