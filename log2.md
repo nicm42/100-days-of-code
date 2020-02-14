@@ -102,3 +102,11 @@ Progress: I copied the RI Christmas Lectures fireworks and then improved them
 Thoughts: It's been interesting how many different aspects of the canvas and Javascript in general that I've learnt/needed to use.
 
 Link to work: https://github.com/nicm42/fireworks
+
+
+Day 14: 14th February 2020
+Progress: Finished off the fireworks!
+
+Thoughts: I just needed to repeat them, which I thought would be hard, but realised was easy.
+
+Link to work: https://github.com/nicm42/fireworks
