@@ -110,3 +110,11 @@ Progress: Finished off the fireworks!
 Thoughts: I just needed to repeat them, which I thought would be hard, but realised was easy.
 
 Link to work: https://github.com/nicm42/fireworks
+
+
+Day 15: 15th February 2020
+Progress: Started a landing page on Frontend Mentor
+
+Thoughts: I thought it would be easier having the design and all the content, but there's a lot going on there and it's harder than I thought to think about how to do it.
+
+Link to work: https://github.com/nicm42/Manage-Landing-Page
