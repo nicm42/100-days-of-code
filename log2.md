@@ -118,3 +118,11 @@ Progress: Started a landing page on Frontend Mentor
 Thoughts: I thought it would be easier having the design and all the content, but there's a lot going on there and it's harder than I thought to think about how to do it.
 
 Link to work: https://github.com/nicm42/Manage-Landing-Page
+
+
+Day 16: 16th February 2020
+Progress: Worked on the landing page on Frontend Mentor
+
+Thoughts: I'm glad I worked out all the class names in advance, given that putting them in to the HTML still took half an hour.
+
+Link to work: https://github.com/nicm42/Manage-Landing-Page
