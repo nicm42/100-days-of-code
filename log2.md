@@ -126,3 +126,11 @@ Progress: Worked on the landing page on Frontend Mentor
 Thoughts: I'm glad I worked out all the class names in advance, given that putting them in to the HTML still took half an hour.
 
 Link to work: https://github.com/nicm42/Manage-Landing-Page
+
+
+Day 17: 17th February 2020
+Progress: I did one section of the landing page.
+
+Thoughts: That took an hour and it was the easiest one. I think this is going to take a while.
+
+Link to work: https://github.com/nicm42/Manage-Landing-Page
