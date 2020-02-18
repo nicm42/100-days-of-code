@@ -134,3 +134,11 @@ Progress: I did one section of the landing page.
 Thoughts: That took an hour and it was the easiest one. I think this is going to take a while.
 
 Link to work: https://github.com/nicm42/Manage-Landing-Page
+
+
+Day 18: 18th February 2020
+Progress: I did the build section for mobile.
+
+Thoughts: It was fine and easy. And then I came to look at it for desktop and then realised I think CSS Grid would be better.
+
+Link to work: https://github.com/nicm42/Manage-Landing-Page
