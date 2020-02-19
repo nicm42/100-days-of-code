@@ -142,3 +142,11 @@ Progress: I did the build section for mobile.
 Thoughts: It was fine and easy. And then I came to look at it for desktop and then realised I think CSS Grid would be better.
 
 Link to work: https://github.com/nicm42/Manage-Landing-Page
+
+
+Day 19: 19th February 2020
+Progress: I finished the build section.
+
+Thoughts: It is much better in CSS grid. I definitely needded to revise CSS grid and it's pretty cool.
+
+Link to work: https://github.com/nicm42/Manage-Landing-Page
