@@ -150,3 +150,11 @@ Progress: I finished the build section.
 Thoughts: It is much better in CSS grid. I definitely needded to revise CSS grid and it's pretty cool.
 
 Link to work: https://github.com/nicm42/Manage-Landing-Page
+
+
+Day 20: 20th February 2020
+Progress: Done most of the different section for mobile.
+
+Thoughts: Every time I think I've got something I find there's something additional about it that makes it hard. Which is frustrating, but good because it means I'm learning loads.
+
+Link to work: https://github.com/nicm42/Manage-Landing-Page
