@@ -158,3 +158,11 @@ Progress: Done most of the different section for mobile.
 Thoughts: Every time I think I've got something I find there's something additional about it that makes it hard. Which is frustrating, but good because it means I'm learning loads.
 
 Link to work: https://github.com/nicm42/Manage-Landing-Page
+
+
+Day 21: 21st February 2020
+Progress: Done most of the different section for desktop.
+
+Thoughts: I had a worry that I'd done the whole thing fundamentally wrong from the start, but actually I think it's fine, I just need to sort my SCSS out and use some more variables.
+
+Link to work: https://github.com/nicm42/Manage-Landing-Page
