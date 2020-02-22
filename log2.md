@@ -166,3 +166,11 @@ Progress: Done most of the different section for desktop.
 Thoughts: I had a worry that I'd done the whole thing fundamentally wrong from the start, but actually I think it's fine, I just need to sort my SCSS out and use some more variables.
 
 Link to work: https://github.com/nicm42/Manage-Landing-Page
+
+
+Day 22: 22nd February 2020
+Progress: Finished off the different section and did most of the testimonials section.
+
+Thoughts: The testimonials section was a lot simpler than I thought it would be. Although I have to add a script so you can get to the other testimonials. I also realised that the sections don't line up in other browser sizes, so I will have to go back and re-do them all the same way with the same padding/margins etc. But that's a job for another day.
+
+Link to work: https://github.com/nicm42/Manage-Landing-Page
