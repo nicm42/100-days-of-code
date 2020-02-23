@@ -174,3 +174,11 @@ Progress: Finished off the different section and did most of the testimonials se
 Thoughts: The testimonials section was a lot simpler than I thought it would be. Although I have to add a script so you can get to the other testimonials. I also realised that the sections don't line up in other browser sizes, so I will have to go back and re-do them all the same way with the same padding/margins etc. But that's a job for another day.
 
 Link to work: https://github.com/nicm42/Manage-Landing-Page
+
+
+Day 23: 23rd February 2020
+Progress: Started revising the build, different and simplify sections so they all line up.
+
+Thoughts: I tried a few things that didn't work and thought I'd found one that did, but then the simplify section isn't playing ball. I think I need to go away and come back to it and maybe it'll be easier.
+
+Link to work: https://github.com/nicm42/Manage-Landing-Page
