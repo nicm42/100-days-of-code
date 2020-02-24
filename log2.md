@@ -182,3 +182,11 @@ Progress: Started revising the build, different and simplify sections so they al
 Thoughts: I tried a few things that didn't work and thought I'd found one that did, but then the simplify section isn't playing ball. I think I need to go away and come back to it and maybe it'll be easier.
 
 Link to work: https://github.com/nicm42/Manage-Landing-Page
+
+
+Day 24: 24th February 2020
+Progress: Finishing revamping the build, different and simplify sections.
+
+Thoughts: That was much easier after coming back to it. I don't know what the problem was yesterday!
+
+Link to work: https://github.com/nicm42/Manage-Landing-Page
