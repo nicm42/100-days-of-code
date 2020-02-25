@@ -190,3 +190,11 @@ Progress: Finishing revamping the build, different and simplify sections.
 Thoughts: That was much easier after coming back to it. I don't know what the problem was yesterday!
 
 Link to work: https://github.com/nicm42/Manage-Landing-Page
+
+
+Day 25: 25th February 2020
+Progress: Mostly done the footer.
+
+Thoughts: It took a while because I was grappling with CSS grid - I am definitely learning more about it. Which is good, since that's one of the things I wanted to do with this project.
+
+Link to work: https://github.com/nicm42/Manage-Landing-Page
