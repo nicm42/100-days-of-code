@@ -198,3 +198,11 @@ Progress: Mostly done the footer.
 Thoughts: It took a while because I was grappling with CSS grid - I am definitely learning more about it. Which is good, since that's one of the things I wanted to do with this project.
 
 Link to work: https://github.com/nicm42/Manage-Landing-Page
+
+
+Day 26: 26th February 2020
+Progress: Finished off the last bits of the footer.
+
+Thoughts: For some reason it's the little positioning bits that take the longest.
+
+Link to work: https://github.com/nicm42/Manage-Landing-Page
