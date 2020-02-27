@@ -206,3 +206,11 @@ Progress: Finished off the last bits of the footer.
 Thoughts: For some reason it's the little positioning bits that take the longest.
 
 Link to work: https://github.com/nicm42/Manage-Landing-Page
+
+
+Day 27: 27th February 2020
+Progress: Set up the header part.
+
+Thoughts: I thought that was going to be a pain, but it was fine. At least for the CSS bit, I still have the Javascript to go...
+
+Link to work: https://github.com/nicm42/Manage-Landing-Page
