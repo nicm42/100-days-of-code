@@ -214,3 +214,11 @@ Progress: Set up the header part.
 Thoughts: I thought that was going to be a pain, but it was fine. At least for the CSS bit, I still have the Javascript to go...
 
 Link to work: https://github.com/nicm42/Manage-Landing-Page
+
+
+Day 28: 28th February 2020
+Progress: Did the background images and the active states.
+
+Thoughts: The background images were harder than I thought. But now all the CSS is done, it's just the scripting to go.
+
+Link to work: https://github.com/nicm42/Manage-Landing-Page
