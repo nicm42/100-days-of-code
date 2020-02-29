@@ -222,3 +222,11 @@ Progress: Did the background images and the active states.
 Thoughts: The background images were harder than I thought. But now all the CSS is done, it's just the scripting to go.
 
 Link to work: https://github.com/nicm42/Manage-Landing-Page
+
+
+Day 29: 29th February 2020
+Progress: Did the mobile navigation.
+
+Thoughts: I did this on my own for my portfolio, but there are so many cool ways of doing it - it's much easier copying what other people have done (although I did combine three different methods).
+
+Link to work: https://github.com/nicm42/Manage-Landing-Page
