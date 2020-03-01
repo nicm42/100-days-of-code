@@ -230,3 +230,11 @@ Progress: Did the mobile navigation.
 Thoughts: I did this on my own for my portfolio, but there are so many cool ways of doing it - it's much easier copying what other people have done (although I did combine three different methods).
 
 Link to work: https://github.com/nicm42/Manage-Landing-Page
+
+
+Day 30: 1st March 2020
+Progress: Worked on the testimonials slider.
+
+Thoughts: I went through a few variations until I was reminded of the interaction observer. One of the Javascript30 videos was a helpful reminder for dragging, even though the slider doesn't yet work as well as that demo. Hopefully it'll be obvious tomorrow.
+
+Link to work: https://github.com/nicm42/Manage-Landing-Page
