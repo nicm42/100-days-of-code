@@ -238,3 +238,11 @@ Progress: Worked on the testimonials slider.
 Thoughts: I went through a few variations until I was reminded of the interaction observer. One of the Javascript30 videos was a helpful reminder for dragging, even though the slider doesn't yet work as well as that demo. Hopefully it'll be obvious tomorrow.
 
 Link to work: https://github.com/nicm42/Manage-Landing-Page
+
+
+Day 31: 2nd March 2020
+Progress: Finished the testimonials slider.
+
+Thoughts: Turned out to be the CSS that was interfering, of course.
+
+Link to work: https://github.com/nicm42/Manage-Landing-Page
