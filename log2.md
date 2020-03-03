@@ -246,3 +246,11 @@ Progress: Finished the testimonials slider.
 Thoughts: Turned out to be the CSS that was interfering, of course.
 
 Link to work: https://github.com/nicm42/Manage-Landing-Page
+
+
+Day 32: 3rd March 2020
+Progress: Spent time looking inot using Babel to convert ES6.
+
+Thoughts: Seems to be more complicated than I thought - possibly due to me trying this in the past and now ending up with a mess.
+
+Link to work: None
