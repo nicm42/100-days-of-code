@@ -254,3 +254,11 @@ Progress: Spent time looking inot using Babel to convert ES6.
 Thoughts: Seems to be more complicated than I thought - possibly due to me trying this in the past and now ending up with a mess.
 
 Link to work: None
+
+
+Day 33: 4th March 2020
+Progress: Did two katas in codewars, one 7kyu and one 6kyu
+
+Thoughts: I found them both as hard, mainly because I spent the 7kyu one getting used to thinking about it. The 6kyu one was related, so I'd done most of the thinking already.
+
+Link to work: https://www.codewars.com/users/nicm42/completed
