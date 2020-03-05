@@ -262,3 +262,11 @@ Progress: Did two katas in codewars, one 7kyu and one 6kyu
 Thoughts: I found them both as hard, mainly because I spent the 7kyu one getting used to thinking about it. The 6kyu one was related, so I'd done most of the thinking already.
 
 Link to work: https://www.codewars.com/users/nicm42/completed
+
+
+Day 34: 5th March 2020
+Progress: Did another Javascript30 tutorial.
+
+Thoughts: Much as it was interesting, I can see it's out of date because there's now a better way of doing it.
+
+Link to work: None
