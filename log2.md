@@ -270,3 +270,11 @@ Progress: Did another Javascript30 tutorial.
 Thoughts: Much as it was interesting, I can see it's out of date because there's now a better way of doing it.
 
 Link to work: None
+
+
+Day 35: 6th March 2020
+Progress: Tested the Manage landing page on IE and played about with auto-prefixer and Gulp to fix it.
+
+Thoughts: I am starting to get the hang of Gulp. The auto-prefixer only fixed some of the CSS grid problems, so that needs more work.
+
+Link to work: None
