@@ -278,3 +278,11 @@ Progress: Tested the Manage landing page on IE and played about with auto-prefix
 Thoughts: I am starting to get the hang of Gulp. The auto-prefixer only fixed some of the CSS grid problems, so that needs more work.
 
 Link to work: None
+
+
+Day 36: 7th March 2020
+Progress: Finally got Gulp sorted with autoprefixer and babel.
+
+Thoughts: That was hard work - Gulp changing versions recently and therefore needing writing differently was not a help.
+
+Link to work: None
