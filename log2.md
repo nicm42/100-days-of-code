@@ -286,3 +286,11 @@ Progress: Finally got Gulp sorted with autoprefixer and babel.
 Thoughts: That was hard work - Gulp changing versions recently and therefore needing writing differently was not a help.
 
 Link to work: None
+
+
+Day 37: 8th March 2020
+Progress: Fixed all the IE11 problems.
+
+Thoughts: IE is a pain. Although what took longer was installing and setting up SmartGit and Sublime Text on my Windows computer.
+
+Link to work: https://github.com/nicm42/Manage-Landing-Page
