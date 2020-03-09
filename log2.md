@@ -294,3 +294,11 @@ Progress: Fixed all the IE11 problems.
 Thoughts: IE is a pain. Although what took longer was installing and setting up SmartGit and Sublime Text on my Windows computer.
 
 Link to work: https://github.com/nicm42/Manage-Landing-Page
+
+
+Day 38: 9th March 2020
+Progress: Made a couple of changes to the Manage Landing Page based on feedback. Gave some feedback to a couple of solutions on Front End Mentor.
+
+Thoughts: It is interesting seeing other people's solutions and how they do things. And hard with strangers to work out what level of feedback to give - how much to help with the solution.
+
+Link to work: https://github.com/nicm42/Manage-Landing-Page and https://www.frontendmentor.io/profile/nicm42
