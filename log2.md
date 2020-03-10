@@ -302,3 +302,11 @@ Progress: Made a couple of changes to the Manage Landing Page based on feedback.
 Thoughts: It is interesting seeing other people's solutions and how they do things. And hard with strangers to work out what level of feedback to give - how much to help with the solution.
 
 Link to work: https://github.com/nicm42/Manage-Landing-Page and https://www.frontendmentor.io/profile/nicm42
+
+
+Day 39: 10th March 2020
+Progress: Added Gulp and the Manage Landing Page to Portfolio
+
+Thoughts: Once I get the sequence of what I need to type into the Terminal down, then adding Gulp to things will get quicker...
+
+Link to work: https://github.com/nicm42/nicm42.github.io
