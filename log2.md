@@ -310,3 +310,11 @@ Progress: Added Gulp and the Manage Landing Page to Portfolio
 Thoughts: Once I get the sequence of what I need to type into the Terminal down, then adding Gulp to things will get quicker...
 
 Link to work: https://github.com/nicm42/nicm42.github.io
+
+
+Day 40: 11th March 2020
+Progress: Added Gulp to a few other projects that don't work properly on IE
+
+Thoughts: Now I've got it down that was simple. I just have to establish whether they now work on IE or whether there's more work to do on them.
+
+Link to work: 
