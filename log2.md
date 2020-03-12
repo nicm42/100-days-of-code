@@ -318,3 +318,11 @@ Progress: Added Gulp to a few other projects that don't work properly on IE
 Thoughts: Now I've got it down that was simple. I just have to establish whether they now work on IE or whether there's more work to do on them.
 
 Link to work: 
+
+
+Day 41: 12th March 2020
+Progress: Done 4 7kyu katas
+
+Thoughts: They're all on the theme about using higher-order functions, which I definitely need to practice - and these were easy to understand so I just had to work out which to use and how to use them.
+
+Link to work: https://www.codewars.com/users/nicm42
