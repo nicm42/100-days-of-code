@@ -326,3 +326,11 @@ Progress: Done 4 7kyu katas
 Thoughts: They're all on the theme about using higher-order functions, which I definitely need to practice - and these were easy to understand so I just had to work out which to use and how to use them.
 
 Link to work: https://www.codewars.com/users/nicm42
+
+
+Day 42: 14th March 2020
+Progress: Done two 7kyu katas and a 6 kyu kata.
+
+Thoughts: Still on the same theme - there are 17 of them in the collection, so they will take a while to get through.
+
+Link to work: https://www.codewars.com/users/nicm42
