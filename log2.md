@@ -334,3 +334,11 @@ Progress: Done two 7kyu katas and a 6 kyu kata.
 Thoughts: Still on the same theme - there are 17 of them in the collection, so they will take a while to get through.
 
 Link to work: https://www.codewars.com/users/nicm42
+
+
+Day 43: 15th March 2020
+Progress: Did two 7kyu katas.
+
+Thoughts: The second one took longer than it should because some of the answers should be false, but I couldn't see why - in the end I just had to attempt it so none of tests failed.
+
+Link to work: https://www.codewars.com/users/nicm42
