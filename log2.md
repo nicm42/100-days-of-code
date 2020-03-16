@@ -342,3 +342,11 @@ Progress: Did two 7kyu katas.
 Thoughts: The second one took longer than it should because some of the answers should be false, but I couldn't see why - in the end I just had to attempt it so none of tests failed.
 
 Link to work: https://www.codewars.com/users/nicm42
+
+
+Day 44: 16th March 2020
+Progress: Watched the previews for Scrimba's UI course and did a Discord JS bot tutorial.
+
+Thoughts: I understand the basics of Discord bots now, but there's a lot more there to look into that could be interesting.
+
+Link to work: None
