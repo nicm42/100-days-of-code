@@ -350,3 +350,11 @@ Progress: Watched the previews for Scrimba's UI course and did a Discord JS bot 
 Thoughts: I understand the basics of Discord bots now, but there's a lot more there to look into that could be interesting.
 
 Link to work: None
+
+
+Day 45: 17th March 2020
+Progress: Continued with the series by doing two 7kyu and a 6kyu kata.
+
+Thoughts: They weren't too bad - the 6kyu was helped by being similar to the last 6kyu one I did.
+
+Link to work: https://www.codewars.com/users/nicm42
