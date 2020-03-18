@@ -358,3 +358,11 @@ Progress: Continued with the series by doing two 7kyu and a 6kyu kata.
 Thoughts: They weren't too bad - the 6kyu was helped by being similar to the last 6kyu one I did.
 
 Link to work: https://www.codewars.com/users/nicm42
+
+
+Day 46: 18th March 2020
+Progress: Continued with the series by doing a 7kyu and a 6kyu kata.
+
+Thoughts: The 6kyu was hard to get my head round, but I got there in the end. I started another 6kyu and took ages on it and can't solve it, so I'm going to come back to it tomorrow.
+
+Link to work: https://www.codewars.com/users/nicm42
