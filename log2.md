@@ -374,3 +374,19 @@ Progress: Got the 6kyu kata done and did a 7kyu one.
 Thoughts: I was over-complicating the 6kyu one yesterday. And found that once I had done I was still overcomplicating it. But I am so pleased to have got it working.
 
 Link to work: https://www.codewars.com/users/nicm42
+
+
+Day 48: 20th March 2020
+Progress: Started the UI design bootcamp on Scrimba. Did a couple of 7kyu and an 8kyu kata on codewars.
+
+Thoughts: The UI bootcamp mostly consisted of working out which bits I've already seen and watching some introductions. But it was thought-provoking and gives me ideas to improve my portfolio. The 7kyu katas were perfect for a short break from watching tutorials, but 8kyu is just too easy.
+
+Link to work: https://www.codewars.com/users/nicm42
+
+
+Day 49: 21st March 2020
+Progress: Worked on some sites in my portfolio that don't work properly on IE.
+
+Thoughts: Two of them just needed a bit of extra CSS. After spending ages on the other two I eventually discovered that I didn't have a .babelrc file so babel wasn't doing anything. And it needed updating. Hopefully tomorrow I can try them again and they will work better this time.
+
+Link to work: https://github.com/nicm42/
