@@ -390,3 +390,11 @@ Progress: Worked on some sites in my portfolio that don't work properly on IE.
 Thoughts: Two of them just needed a bit of extra CSS. After spending ages on the other two I eventually discovered that I didn't have a .babelrc file so babel wasn't doing anything. And it needed updating. Hopefully tomorrow I can try them again and they will work better this time.
 
 Link to work: https://github.com/nicm42/
+
+
+Day 50: 22nd March 2020
+Progress: Spent some more time working on the two sites still not working in IE.
+
+Thoughts: Spent the time fiddling about with babel (again). I have at least fixed one thing with one of them. The other just has a different error...
+
+Link to work: https://github.com/nicm42/
