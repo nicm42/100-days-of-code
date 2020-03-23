@@ -398,3 +398,11 @@ Progress: Spent some more time working on the two sites still not working in IE.
 Thoughts: Spent the time fiddling about with babel (again). I have at least fixed one thing with one of them. The other just has a different error...
 
 Link to work: https://github.com/nicm42/
+
+
+Day 51: 23rd March 2020
+Progress: Did the obile First CSS lessons in UI Design Bootcamp on Scrimba.
+
+Thoughts: It was interesting to see how he makes it look so good with just a few bits of css.
+
+Link to work: None
