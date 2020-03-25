@@ -401,8 +401,16 @@ Link to work: https://github.com/nicm42/
 
 
 Day 51: 23rd March 2020
-Progress: Did the obile First CSS lessons in UI Design Bootcamp on Scrimba.
+Progress: Did the mobile First CSS lessons in UI Design Bootcamp on Scrimba.
 
 Thoughts: It was interesting to see how he makes it look so good with just a few bits of css.
+
+Link to work: None
+
+
+Day 52: 25th March 2020
+Progress: Finished off the mobile first CSS lessons in the UI Design Bootcamp.
+
+Thoughts: For some reason getting the interface to resize the mini-browser and let me scroll was really hard today. It overshadowed the things I was learning.
 
 Link to work: None
