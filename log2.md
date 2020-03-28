@@ -414,3 +414,11 @@ Progress: Finished off the mobile first CSS lessons in the UI Design Bootcamp.
 Thoughts: For some reason getting the interface to resize the mini-browser and let me scroll was really hard today. It overshadowed the things I was learning.
 
 Link to work: None
+
+
+Day 53: 28th March 2020
+Progress: Watched the responsive navigation lessons in the UI Dwsign Bootcamp.
+
+Thoughts: Still struggling with the mini browser (and my browser crashing). This was stuff I already recently learnt, but it was good to get another reminder of how it's not as complicated as I used to think it was!
+
+Link to work: None
