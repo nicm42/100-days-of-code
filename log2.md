@@ -422,3 +422,11 @@ Progress: Watched the responsive navigation lessons in the UI Dwsign Bootcamp.
 Thoughts: Still struggling with the mini browser (and my browser crashing). This was stuff I already recently learnt, but it was good to get another reminder of how it's not as complicated as I used to think it was!
 
 Link to work: None
+
+
+Day 54: 29th March 2020
+Progress: Read about localStorage and did a WesBox Javascript30 tutorial on it.
+
+Thoughts: localStorage is a lot simpler than I thought it would be, and pretty cool.
+
+Link to work: None
