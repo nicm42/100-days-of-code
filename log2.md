@@ -430,3 +430,11 @@ Progress: Read about localStorage and did a WesBox Javascript30 tutorial on it.
 Thoughts: localStorage is a lot simpler than I thought it would be, and pretty cool.
 
 Link to work: None
+
+
+Day 55: 30th March 2020
+Progress: Read about aria and Tailwind CSS.
+
+Thoughts: They are both a lot to take in. I need to use them in order to understand them a bit more.
+
+Link to work: None
