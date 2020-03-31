@@ -438,3 +438,11 @@ Progress: Read about aria and Tailwind CSS.
 Thoughts: They are both a lot to take in. I need to use them in order to understand them a bit more.
 
 Link to work: None
+
+
+Day 56: 31st March 2020
+Progress: Did one of the Javascript30 tutorials about array references and copies.
+
+Thoughts: That was really useful to know (just as long as I remember it!)
+
+Link to work: None
