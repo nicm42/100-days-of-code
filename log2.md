@@ -446,3 +446,11 @@ Progress: Did one of the Javascript30 tutorials about array references and copie
 Thoughts: That was really useful to know (just as long as I remember it!)
 
 Link to work: None
+
+
+Day 57: 1st April 2020
+Progress: Did one of the Javascript30 tutorials about box shadow moving on mouse move.
+
+Thoughts: It was interesting and fun. The main lesson was about x and y, which I've already spent time playing about with.
+
+Link to work: None
