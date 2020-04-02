@@ -454,3 +454,11 @@ Progress: Did one of the Javascript30 tutorials about box shadow moving on mouse
 Thoughts: It was interesting and fun. The main lesson was about x and y, which I've already spent time playing about with.
 
 Link to work: None
+
+
+Day 58: 2nd April 2020
+Progress: Did one of the Javascript30 tutorials about custom video player controls.
+
+Thoughts: I must have done this in jQuery years ago, so it's good to know what's possible in JavaScript these days.
+
+Link to work: None
