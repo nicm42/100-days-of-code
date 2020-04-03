@@ -462,3 +462,11 @@ Progress: Did one of the Javascript30 tutorials about custom video player contro
 Thoughts: I must have done this in jQuery years ago, so it's good to know what's possible in JavaScript these days.
 
 Link to work: None
+
+
+Day 59: 3rd April 2020
+Progress: Did four of the Javascript30 tutorials.
+
+Thoughts: As always, all useful stuff.
+
+Link to work: None
