@@ -470,3 +470,11 @@ Progress: Did four of the Javascript30 tutorials.
 Thoughts: As always, all useful stuff.
 
 Link to work: None
+
+
+Day 60: 4th April 2020
+Progress: Started on v2 of Click the Dot with different shapes, high scores and using jQuery.
+
+Thoughts: It's been hard to remember what I'm doing with jQuery when I've been so used to JavaScript when not at work.
+
+Link to work: https://github.com/nicm42/clickthedot
