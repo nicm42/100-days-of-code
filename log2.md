@@ -478,3 +478,11 @@ Progress: Started on v2 of Click the Dot with different shapes, high scores and 
 Thoughts: It's been hard to remember what I'm doing with jQuery when I've been so used to JavaScript when not at work.
 
 Link to work: https://github.com/nicm42/clickthedot
+
+
+Day 61: 5th April 2020
+Progress: Worked on v2 of Click the Dot, now renamed to Click the Shape.
+
+Thoughts: It's looking good, just needs a few tweaks and more browser testing.
+
+Link to work: https://github.com/nicm42/clickthedot
