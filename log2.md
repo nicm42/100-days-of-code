@@ -486,3 +486,11 @@ Progress: Worked on v2 of Click the Dot, now renamed to Click the Shape.
 Thoughts: It's looking good, just needs a few tweaks and more browser testing.
 
 Link to work: https://github.com/nicm42/clickthedot
+
+
+Day 62: 6th April 2020
+Progress: Did a Javascript30 tutorial on speech recognition.
+
+Thoughts: It hadn't veen occured to me that you could do speech recognition on a computer. Or that it was so easy.
+
+Link to work: None
