@@ -494,3 +494,11 @@ Progress: Did a Javascript30 tutorial on speech recognition.
 Thoughts: It hadn't veen occured to me that you could do speech recognition on a computer. Or that it was so easy.
 
 Link to work: None
+
+
+Day 63: 7th April 2020
+Progress: Did two Javascript30 tutorials, one one webcam and one on speech synthesis
+
+Thoughts: Really interesting stuff. Not sure if I'll use it, but fun to learn anyway.
+
+Link to work: None
