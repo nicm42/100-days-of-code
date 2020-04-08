@@ -502,3 +502,12 @@ Progress: Did two Javascript30 tutorials, one one webcam and one on speech synth
 Thoughts: Really interesting stuff. Not sure if I'll use it, but fun to learn anyway.
 
 Link to work: None
+
+
+Day 64: 8th April 2020
+Progress: Did 4 Javascript30 tutorials and 2 7kyu and 1 6kyu katas in codewars.
+
+Thoughts: The Javascript30 tutorials continue to be interesting and entertaining and I'm learning things from them. THe 7kyu katas were easy one to get me back into it. The 6kyu took me a long time to get my head around how to do the maths. 
+
+Link to work: https://www.codewars.com/users/nicm42
+
