@@ -511,3 +511,20 @@ Thoughts: The Javascript30 tutorials continue to be interesting and entertaining
 
 Link to work: https://www.codewars.com/users/nicm42
 
+
+Day 65: 9th April 2020
+Progress: Finished the last Javascript30 tutorials.
+
+Thoughts: So pleased to have done them all! They've all had interesting things I can use.
+
+Link to work: None
+
+
+Day 66: 10th April 2020
+Progress: Started on changing Click the Shape to use svg instead of CSS to create the shapes.
+
+Thoughts: I am learning a lot about SVG, which was the whole point of doing it.
+
+Link to work: https://github.com/nicm42/clickthedot
+
+
