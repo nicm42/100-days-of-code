@@ -528,3 +528,11 @@ Thoughts: I am learning a lot about SVG, which was the whole point of doing it.
 Link to work: https://github.com/nicm42/clickthedot
 
 
+Day 67: 11th April 2020
+Progress: Continued with Click the Shape
+
+Thoughts: Learnt more about svg in getting the whole thing to work. Found styling the select easier to understand  I'd seen it on a real (simple) site.
+
+Link to work: https://github.com/nicm42/clickthedot
+
+
