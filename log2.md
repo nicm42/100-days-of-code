@@ -536,3 +536,11 @@ Thoughts: Learnt more about svg in getting the whole thing to work. Found stylin
 Link to work: https://github.com/nicm42/clickthedot
 
 
+Day 68: 12th April 2020
+Progress: Did a load of things on Click the Shape
+
+Thoughts: Learnt a lot about CSS and SASS best practices and aria.
+
+Link to work: https://github.com/nicm42/clickthedot
+
+
