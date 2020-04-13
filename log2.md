@@ -544,3 +544,11 @@ Thoughts: Learnt a lot about CSS and SASS best practices and aria.
 Link to work: https://github.com/nicm42/clickthedot
 
 
+Day 69: 13th April 2020
+Progress: Finished Click the Shape
+
+Thoughts: I learnt that localStorage doesn't work on IE and Edge unless it's on a server. Installing that turned out to be easy, eventually.
+
+Link to work: https://github.com/nicm42/clickthedot
+
+
