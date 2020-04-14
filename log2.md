@@ -552,3 +552,11 @@ Thoughts: I learnt that localStorage doesn't work on IE and Edge unless it's on 
 Link to work: https://github.com/nicm42/clickthedot
 
 
+Day 70: 14th April 2020
+Progress: Watched a video about rem and em, and also about choosing fonts.
+
+Thoughts: Now I finally understand the difference between rem and em! Also, it was good to have some simple tricks for choosing fonts because it is hard to decide.
+
+Link to work: None
+
+
