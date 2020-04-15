@@ -560,3 +560,9 @@ Thoughts: Now I finally understand the difference between rem and em! Also, it w
 Link to work: None
 
 
+Day 71: 15th April 2020
+Progress: Did the third day of Conquering Responsive Layouts, and did two 8kyu, two 7kyu and a 6kyu kata on codewars.
+
+Thoughts: Conquering Responsive Layouts has been good because it's thinhs I sort of know but haven't really had explained. I did a 7kyu kata to get into it, then the 6kyu kata on codewars didn't take me too long. I just had time for some 8kyu after that. I should do more 6kyu katas to get better at them.
+
+Link to work: None
