@@ -566,3 +566,11 @@ Progress: Did the third day of Conquering Responsive Layouts, and did two 8kyu, 
 Thoughts: Conquering Responsive Layouts has been good because it's thinhs I sort of know but haven't really had explained. I did a 7kyu kata to get into it, then the 6kyu kata on codewars didn't take me too long. I just had time for some 8kyu after that. I should do more 6kyu katas to get better at them.
 
 Link to work: None
+
+
+Day 72: 20th April 2020
+Progress: Did today's Conquering Responsive Layouts. Then watched Kevin's video on psuedo-elements positioning with grids.
+
+Thoughts: The flex stuff I knew, although not about gap. I definitely need to watch the series on pseudo elements, because I still find them a bit of a mystery.
+
+Link to work: None
