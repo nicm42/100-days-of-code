@@ -574,3 +574,11 @@ Progress: Did today's Conquering Responsive Layouts. Then watched Kevin's video 
 Thoughts: The flex stuff I knew, although not about gap. I definitely need to watch the series on pseudo elements, because I still find them a bit of a mystery.
 
 Link to work: None
+
+
+Day 73: 21st April 2020
+Progress: Did today's Conquering Responsive Layouts. Then watched part 1 of Kevin's video series on pseudo elements.
+
+Thoughts: THe flex stuff was all things I knew. It was good to have the pseudo elements basics explained.
+
+Link to work: None
