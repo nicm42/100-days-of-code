@@ -579,6 +579,22 @@ Link to work: None
 Day 73: 21st April 2020
 Progress: Did today's Conquering Responsive Layouts. Then watched part 1 of Kevin's video series on pseudo elements.
 
-Thoughts: THe flex stuff was all things I knew. It was good to have the pseudo elements basics explained.
+Thoughts: The flex stuff was all things I knew. It was good to have the pseudo elements basics explained.
+
+Link to work: None
+
+
+Day 74: 22nd April 2020
+Progress: Watched part 2 of Kevin's video series on pseudo elements and a video about Emmet.
+
+Thoughts: Emmet is really useful. And psuedo elements are really cool, you can do so much with them.
+
+Link to work: None
+
+
+Day 75: 23rd April 2020
+Progress: Did today's Conquering Responsive Layouts. Then watched part 3 of Kevin's video series on pseudo elements, and a video on CSS transitions.
+
+Thoughts: Today's was some very simple Flex. I really need to practice some pseudo-elements. Now I understand transitions a bit more - I also need to practice them.
 
 Link to work: None
