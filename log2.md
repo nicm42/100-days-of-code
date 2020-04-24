@@ -598,3 +598,11 @@ Progress: Did today's Conquering Responsive Layouts. Then watched part 3 of Kevi
 Thoughts: Today's was some very simple Flex. I really need to practice some pseudo-elements. Now I understand transitions a bit more - I also need to practice them.
 
 Link to work: None
+
+
+Day 76: 24th April 2020
+Progress: Watched the videos on today's Conquering Responsive Layouts. Watched one of Kevin's videos on fun hover effects.
+
+Thoughts: The challenge for today was more work than I had time for, so I've saved that for tomorrow. The hover effects video was almost a continuation from the pseudo elements one. After he did the first one, I could come up with the second on my own and most of the third on my own too. Although I still need to practice all of these things on my own project.
+
+Link to work: None
