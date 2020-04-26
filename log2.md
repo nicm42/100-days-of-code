@@ -606,3 +606,19 @@ Progress: Watched the videos on today's Conquering Responsive Layouts. Watched o
 Thoughts: The challenge for today was more work than I had time for, so I've saved that for tomorrow. The hover effects video was almost a continuation from the pseudo elements one. After he did the first one, I could come up with the second on my own and most of the third on my own too. Although I still need to practice all of these things on my own project.
 
 Link to work: None
+
+
+Day 77: 25th April 2020
+Progress: Did yesterday's challenge for Conquering Responsive Layouts.
+
+Thoughts: That was easier than I thought. But it will be interesting to see if there's a better/different way of doing it and if there's anything I didn't think about.
+
+Link to work: None
+
+
+Day 78: 26th April 2020
+Progress: Did four lessons in the UI Dwsign Bootcamp.
+
+Thoughts: It's been a while since I've done anything on this and it was harder from not remembering the fundamentals as well as I thought I did.
+
+Link to work: None
