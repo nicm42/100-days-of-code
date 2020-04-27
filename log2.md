@@ -622,3 +622,11 @@ Progress: Did four lessons in the UI Dwsign Bootcamp.
 Thoughts: It's been a while since I've done anything on this and it was harder from not remembering the fundamentals as well as I thought I did.
 
 Link to work: None
+
+
+Day 79: 27th April 2020
+Progress: Did today's Conquering Responsive Layout lesson. Watched videos on min(), max(), clamp() and @supports in CSS.
+
+Thoughts: The @supports is really useful. The others are nice to get it a line of code, although it doesn't make as much difference if you use SASS.
+
+Link to work: None
