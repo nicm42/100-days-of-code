@@ -630,3 +630,11 @@ Progress: Did today's Conquering Responsive Layout lesson. Watched videos on min
 Thoughts: The @supports is really useful. The others are nice to get it a line of code, although it doesn't make as much difference if you use SASS.
 
 Link to work: None
+
+
+Day 80: 28th April 2020
+Progress: Did today's Conquering Responsive Layout lesson and finished off the Whole Project Refactoring in the UI Design Bootcamp. I then did two 8kyu katas, two 6kyu katas anda  5kyu kata at codewars
+
+Thoughts: The UI Design Bootcamp is hard to go back to. The Conquering Responsive Layout lesson on what breakpoints to choose for media queries was useful because I didn't really know. The two 8kyu katas were because codewars said I'd started them but not finished. The 6 and the 5kyu people said were easier than that and I didn't find them too hard - or too easy either.
+
+Link to work: None
