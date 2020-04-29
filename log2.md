@@ -638,3 +638,11 @@ Progress: Did today's Conquering Responsive Layout lesson and finished off the W
 Thoughts: The UI Design Bootcamp is hard to go back to. The Conquering Responsive Layout lesson on what breakpoints to choose for media queries was useful because I didn't really know. The two 8kyu katas were because codewars said I'd started them but not finished. The 6 and the 5kyu people said were easier than that and I didn't find them too hard - or too easy either.
 
 Link to work: None
+
+
+Day 81: 29th April 2020
+Progress: Did today's Conquering Responsive Layout lesson and started on the Tea Project in the UI Design Bootcamp.
+
+Thoughts: I found making a design easier than refactoring one, but I think some of the came from seeing the HTML written so I understood it, and I understood the hierarchy of the things on the page. Although we'll see tomorrow how my design matches up...
+
+Link to work: None
