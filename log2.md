@@ -646,3 +646,11 @@ Progress: Did today's Conquering Responsive Layout lesson and started on the Tea
 Thoughts: I found making a design easier than refactoring one, but I think some of the came from seeing the HTML written so I understood it, and I understood the hierarchy of the things on the page. Although we'll see tomorrow how my design matches up...
 
 Link to work: None
+
+
+Day 82: 30th April 2020
+Progress: Did today's Conquering Responsive Layout lesson.
+
+Thoughts: Going between Conquering Responsive Layouts and UI Bootcamp is confusing me because they have different ways of doing things. I will have to stick to one until I've finished it, then go back to the other (which is what I should be doing anyway).
+
+Link to work: None
