@@ -654,3 +654,11 @@ Progress: Did today's Conquering Responsive Layout lesson.
 Thoughts: Going between Conquering Responsive Layouts and UI Bootcamp is confusing me because they have different ways of doing things. I will have to stick to one until I've finished it, then go back to the other (which is what I should be doing anyway).
 
 Link to work: None
+
+
+Day 83: 2nd May 2020
+Progress: Did today and yesterday's Conquering Responsive Layout lesson.
+
+Thoughts: That wasn't too hard, although I downloaded the files yesterday morning, so they didn't include the fix and it took me a little while to work out what was going on.
+
+Link to work: None
