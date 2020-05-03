@@ -662,3 +662,11 @@ Progress: Did today and yesterday's Conquering Responsive Layout lesson.
 Thoughts: That wasn't too hard, although I downloaded the files yesterday morning, so they didn't include the fix and it took me a little while to work out what was going on.
 
 Link to work: None
+
+
+Day 84: 3rd May 2020
+Progress: Finished the Conquering Responsive Layout course. Did some of the Tailwind CSS course.
+
+Thoughts: The final challenge took me a while, but I did see how much less code there was when you go mobile first. I'm liking the idea of Tailwind so far, it looks interesting. I am looking forward to learning more and trying it out.
+
+Link to work: None
