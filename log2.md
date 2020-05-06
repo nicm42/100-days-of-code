@@ -670,3 +670,11 @@ Progress: Finished the Conquering Responsive Layout course. Did some of the Tail
 Thoughts: The final challenge took me a while, but I did see how much less code there was when you go mobile first. I'm liking the idea of Tailwind so far, it looks interesting. I am looking forward to learning more and trying it out.
 
 Link to work: None
+
+
+Day 85: 6th May 2020
+Progress: Did most of the Tailwind CSS course.
+
+Thoughts: The Tailwind CSS course was good to help me understand the basics. But it was very basic, so rather than finishing the last challenges, the best thing to do will be to use it.
+
+Link to work: None
