@@ -678,3 +678,11 @@ Progress: Did most of the Tailwind CSS course.
 Thoughts: The Tailwind CSS course was good to help me understand the basics. But it was very basic, so rather than finishing the last challenges, the best thing to do will be to use it.
 
 Link to work: None
+
+
+Day 86: 7th May 2020
+Progress: Did some Gulp tutorials and investigated VS Code.
+
+Thoughts: I am starting to understand Gulp more now, than I did when I just tried to copy files.
+
+Link to work: None
