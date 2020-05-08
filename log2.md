@@ -686,3 +686,11 @@ Progress: Did some Gulp tutorials and investigated VS Code.
 Thoughts: I am starting to understand Gulp more now, than I did when I just tried to copy files.
 
 Link to work: None
+
+
+Day 87: 8th May 2020
+Progress: Started on a Frontend Mentor layout using Tailwind CSS and VS Code.
+
+Thoughts: I like that VS code is coming up with Tailwind CSS suggestions. But typing HTML on it is so much harder than in Sublime Text. Tailwind CSS is fun so far - I picked an easy layout to try it out on.
+
+Link to work: https://github.com/nicm42/single-price-grid-component
