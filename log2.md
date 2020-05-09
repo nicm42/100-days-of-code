@@ -694,3 +694,11 @@ Progress: Started on a Frontend Mentor layout using Tailwind CSS and VS Code.
 Thoughts: I like that VS code is coming up with Tailwind CSS suggestions. But typing HTML on it is so much harder than in Sublime Text. Tailwind CSS is fun so far - I picked an easy layout to try it out on.
 
 Link to work: https://github.com/nicm42/single-price-grid-component
+
+
+Day 88: 9th May 2020
+Progress: Carried on with the Frontend Mentor layout
+
+Thoughts: I am liking Tailwind CSS less - I feel like I keep needing to add in variables that don't exist as standard. And it requires more looking things up (although once I used it enough it would probably need less). I can see its uses, but i feel like ordinary CSS is just going to be easier. I am liking the BrowserSync in Gulp, though.
+
+Link to work: https://github.com/nicm42/single-price-grid-component
