@@ -702,3 +702,11 @@ Progress: Carried on with the Frontend Mentor layout
 Thoughts: I am liking Tailwind CSS less - I feel like I keep needing to add in variables that don't exist as standard. And it requires more looking things up (although once I used it enough it would probably need less). I can see its uses, but i feel like ordinary CSS is just going to be easier. I am liking the BrowserSync in Gulp, though.
 
 Link to work: https://github.com/nicm42/single-price-grid-component
+
+
+Day 89: 10th May 2020
+Progress: Finished the Frontend Mentor layout
+
+Thoughts: Despite using Pixel Perfect extension to get it the same as the design, when I upload the solution screenshot shows it at a completely different size. No idea why.
+
+Link to work: https://github.com/nicm42/single-price-grid-component
