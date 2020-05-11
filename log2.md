@@ -710,3 +710,11 @@ Progress: Finished the Frontend Mentor layout
 Thoughts: Despite using Pixel Perfect extension to get it the same as the design, when I upload the solution screenshot shows it at a completely different size. No idea why.
 
 Link to work: https://github.com/nicm42/single-price-grid-component
+
+
+Day 90: 11th May 2020
+Progress: Started Wes Bos's CSS Grid course
+
+Thoughts: I keep thinking I understand CSS Grid and then finding that I don't when I come to use it. So it's good that this course is starting from the basics.
+
+Link to work: None
