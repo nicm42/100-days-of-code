@@ -718,3 +718,12 @@ Progress: Started Wes Bos's CSS Grid course
 Thoughts: I keep thinking I understand CSS Grid and then finding that I don't when I come to use it. So it's good that this course is starting from the basics.
 
 Link to work: None
+
+
+Day 91: 12th May 2020
+Progress: Continued with Wes Bos's CSS Grid course. Also decided to look at CoffeeScript and do some katas on codewars.
+
+Thoughts: This is really useful - there's lots of things in here I didn't really know about. CoffeeScript messes with my head!
+
+Link to work: https://www.codewars.com/users/nicm42
+
