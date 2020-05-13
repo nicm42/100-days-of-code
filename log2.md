@@ -727,3 +727,10 @@ Thoughts: This is really useful - there's lots of things in here I didn't really
 
 Link to work: https://www.codewars.com/users/nicm42
 
+
+Day 92: 13th May 2020
+Progress: Continued with Wes Bos's CSS Grid course
+
+Thoughts: It's getting more complicated and it's into real-life stuff, but I am following it all, which is really good.
+
+Link to work: None
