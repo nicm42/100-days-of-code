@@ -734,3 +734,11 @@ Progress: Continued with Wes Bos's CSS Grid course
 Thoughts: It's getting more complicated and it's into real-life stuff, but I am following it all, which is really good.
 
 Link to work: None
+
+
+Day 93: 14th May 2020
+Progress: Finished Wes Bos's CSS Grid course
+
+Thoughts: Now I just need to write something with a load of grids and see if it's easier now (I hope it is!)
+
+Link to work: None
