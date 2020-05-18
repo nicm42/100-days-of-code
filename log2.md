@@ -750,3 +750,4 @@ Progress: Did the Figma tutorials in Figma and started watching some Figma tutor
 Thoughts: There's a lot going on in there, but the YouTube tutorials are helping.
 
 Link to work: None
+
