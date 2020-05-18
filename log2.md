@@ -742,3 +742,11 @@ Progress: Finished Wes Bos's CSS Grid course
 Thoughts: Now I just need to write something with a load of grids and see if it's easier now (I hope it is!)
 
 Link to work: None
+
+
+Day 94: 18th May 2020
+Progress: Did the Figma tutorials in Figma and started watching some Figma tutorials on YouTube.
+
+Thoughts: There's a lot going on in there, but the YouTube tutorials are helping.
+
+Link to work: None
