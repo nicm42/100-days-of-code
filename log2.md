@@ -751,3 +751,11 @@ Thoughts: There's a lot going on in there, but the YouTube tutorials are helping
 
 Link to work: None
 
+
+Day 95: 19th May 2020
+Progress: Watched the videos about translating Figma design to code. Also gave some feedback on Frontend Mentor.
+
+Thoughts: There wasn't a lot there about using Figma, but it was good to get an idea of how to go from design to code, and a refresher on CSS Grid in real life.
+
+Link to work: None
+
