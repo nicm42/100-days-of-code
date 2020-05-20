@@ -759,3 +759,12 @@ Thoughts: There wasn't a lot there about using Figma, but it was good to get an 
 
 Link to work: None
 
+
+
+Day 96: 20th May 2020
+Progress: Worked on my portfolio in Figma.
+
+Thoughts: I feel like it's something you can endlessly tweak, easier than in CSS, and at some point I will have to stop and just code the thing.
+
+Link to work: None
+
