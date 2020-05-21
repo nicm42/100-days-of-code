@@ -760,11 +760,18 @@ Thoughts: There wasn't a lot there about using Figma, but it was good to get an 
 Link to work: None
 
 
-
 Day 96: 20th May 2020
 Progress: Worked on my portfolio in Figma.
 
 Thoughts: I feel like it's something you can endlessly tweak, easier than in CSS, and at some point I will have to stop and just code the thing.
+
+Link to work: None
+
+
+Day 97: 21st May 2020
+Progress: Did the mobile design for my profile and watched a coding video.
+
+Thoughts: The mobile design was easy to copy from the desktop design. The coding video was really useful to see how to use all the aspects of SCSS, not just variables.
 
 Link to work: None
 
