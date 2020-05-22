@@ -775,3 +775,11 @@ Thoughts: The mobile design was easy to copy from the desktop design. The coding
 
 Link to work: None
 
+
+Day 98: 22nd May 2020
+Progress: Started a Frontend Mentor site.
+
+Thoughts: I did it to practice CSS Grid - I would definitely not have been able to do the grid on it before I did Wes Bos's course. And I didn't even have to look anything up! I also used Coder Coder's SCSS set up and it does make everything much easier to read.
+
+Link to work: https://github.com/nicm42/four-card-feature-section
+
