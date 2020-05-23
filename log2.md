@@ -783,3 +783,10 @@ Thoughts: I did it to practice CSS Grid - I would definitely not have been able 
 
 Link to work: https://github.com/nicm42/four-card-feature-section
 
+
+Day 99: 23rd May 2020
+Progress: Finished the Frontend Mentor site.
+
+Thoughts: As per usual, IE makes everything harder. I had to completely re-do the grid to get it to work on IE, which was a pain. I'm very glad to Firefox's dev tools showing me all the grid lines, which made it so much easier to do.
+
+Link to work: https://github.com/nicm42/four-card-feature-section
