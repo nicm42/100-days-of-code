@@ -790,3 +790,11 @@ Progress: Finished the Frontend Mentor site.
 Thoughts: As per usual, IE makes everything harder. I had to completely re-do the grid to get it to work on IE, which was a pain. I'm very glad to Firefox's dev tools showing me all the grid lines, which made it so much easier to do.
 
 Link to work: https://github.com/nicm42/four-card-feature-section
+
+
+Day 100: 24th May 2020
+Progress: Did two 6kyu JS katas and a 7 kyu CoffeeScript kata at codewars
+
+Thoughts: One of those 6kyus was really easy and the other was really hard. I am still finding it hard to get my head round CoffeeScript.
+
+Link to work: https://www.codewars.com/users/nicm42
